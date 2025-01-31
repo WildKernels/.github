@@ -16,10 +16,10 @@ By flashing this kernel, **YOU** are choosing to make these modifications. If so
 
 # Kernels:
  
-[GKI](https://github.com/WildPlusKernel/GKI_KernelSU_SUSFS)
-[Sultan](https://github.com/WildPlusKernel/Sultan_KernelSU_SUSFS)
-[OnePlus](https://github.com/WildPlusKernel/OnePlus_KernelSU_SUSFS)
-[Legacey Pixel](https://github.com/WildPlusKernel/Pixel_KernelSU_SUSFS)
+[GKI](https://github.com/WildPlusKernel/GKI_KernelSU_SUSFS)  
+[Sultan](https://github.com/WildPlusKernel/Sultan_KernelSU_SUSFS)  
+[OnePlus](https://github.com/WildPlusKernel/OnePlus_KernelSU_SUSFS)  
+[Legacey Pixel](https://github.com/WildPlusKernel/Pixel_KernelSU_SUSFS)  
 
 ---
 
