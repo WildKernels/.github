@@ -28,7 +28,7 @@ jobs:
             echo "Default branch for $REPO is $DEFAULT_BRANCH"
 
             cp ../profile/README.md README.md
-            git config user.name "WildPlusKernel"
+            git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
             git add README.md
