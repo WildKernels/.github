@@ -17,10 +17,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           REPOS=("GKI_KernelSU_SUSFS")  # Your repository name
-          USERNAME="WildPlusKernel"  # Your GitHub username
 
           for REPO in "${REPOS[@]}"; do
-            git clone https://github.com/$USERNAME/$REPO.git
+            git clone https://github.com/WildPlusKernel/$REPO.git
             cd $REPO
 
             # Detect the default branch
