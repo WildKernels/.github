@@ -18,7 +18,7 @@ jobs:
         run: |
           REPOS=("GKI_KernelSU_SUSFS")  # List your repositories here
           for REPO in "${REPOS[@]}"; do
-            git clone https://x-access-token:$GH_TOKEN@github.com/yourusername/$REPO.git
+            git clone https://x-access-token:$GH_TOKEN@github.com/WildPlusKernel/$REPO.git
             cp README.md $REPO/
             cd $REPO
             git config user.name "github-actions"
