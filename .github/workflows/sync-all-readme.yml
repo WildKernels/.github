@@ -2,10 +2,8 @@ name: Sync Profile README
 
 on:
   push:
-    #branches:
-    #  - main  # Triggers only when changes are pushed to the main branch
-    paths:
-      - "README.md"  # Trigger only when README.md changes
+    branches:
+      - main  # Triggers only when changes are pushed to the main branch
 
 jobs:
   sync:
