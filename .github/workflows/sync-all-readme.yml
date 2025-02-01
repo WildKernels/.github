@@ -20,7 +20,7 @@ jobs:
           USERNAME="WildPlusKernel"  # Your GitHub username
 
           for REPO in "${REPOS[@]}"; do
-            git clone https://x-access-token:$GH_TOKEN@github.com/$USERNAME/$REPO.git
+            git clone https://github.com/$USERNAME/$REPO.git
             cd $REPO
 
             # Detect the default branch
