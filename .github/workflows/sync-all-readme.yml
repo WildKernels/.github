@@ -22,17 +22,13 @@ jobs:
             git clone https://github.com/WildPlusKernel/$REPO.git
             cd $REPO
 
-            # Detect the default branch
-            DEFAULT_BRANCH=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
-            echo "Default branch for $REPO is $DEFAULT_BRANCH"
-
             cp ../profile/README.md README.md
             git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit"
-            git push origin $DEFAULT_BRANCH  # Push to detected default branch
+            git push
 
             cd ..
             rm -rf $REPO
