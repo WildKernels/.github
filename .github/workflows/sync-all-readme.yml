@@ -16,7 +16,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
-          REPOS=("GKI_KernelSU_SUSFS")  # Your repository name
+          REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")  # Your repository name
 
           for REPO in "${REPOS[@]}"; do
             git clone https://github.com/WildPlusKernel/$REPO.git
