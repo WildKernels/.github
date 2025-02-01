@@ -14,7 +14,7 @@ jobs:
 
       - name: Copy README to other repos
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
           REPOS=("GKI_KernelSU_SUSFS")  # Your repository name
 
