@@ -23,12 +23,12 @@ jobs:
             cd $REPO
 
             cp ../profile/README.md README.md
-            git config user.name "WildPlusKernel"
+            git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit"
-            git push https://$GH_TOKEN@github.com/WildPlusKernel/$REPO.git
+            git push https://$GH_TOKEN@github.com/WildKernels/$REPO.git
 
             cd ..
             rm -rf $REPO
