@@ -11,22 +11,34 @@ jobs:
     steps:
       - name: Checkout profile repo
         uses: actions/checkout@v3
+        with:
+          path: profile
 
       - name: Copy README to other repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")  # Your repository name
+          REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")
 
           for REPO in "${REPOS[@]}"; do
-            git clone https://github.com/WildKernels/$REPO.git
-            cd $REPO
+            echo "Processing $REPO..."
+            git clone https://github.com/WildKernels/$REPO.git $REPO
+            if [ $? -ne 0 ]; then
+              echo "Failed to clone $REPO"
+              continue
+            fi
 
+            cd $REPO
             cp ../profile/README.md README.md
             git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
             git add README.md
-            git commit -m "Sync README from profile" || echo "No changes to commit"
-            git push https://$GITHUB_TOKEN@github.com/WildKernels/$REPO.git
+            git commit -m "Sync README from profile" || echo "No changes to commit in $REPO"
+            git push https://x-access-token:$GH_TOKEN@github.com/WildKernels/$REPO.git main
+            if [ $? -ne 0 ]; then
+              echo "Failed to push to $REPO"
+            fi
 
             cd ..
             rm -rf $REPO
