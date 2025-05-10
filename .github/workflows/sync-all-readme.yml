@@ -26,7 +26,7 @@ jobs:
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit"
-            git push https://$GH_TOKEN@github.com/WildKernels/$REPO.git
+            git push https://$GITHUB_TOKEN@github.com/WildKernels/$REPO.git
 
             cd ..
             rm -rf $REPO
