@@ -18,9 +18,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Verify README.md exists
-          if [ ! -f profile/README.md ]; then
-            echo "Error: profile/README.md not found"
+          # Verify README.md exists in .github/profile/
+          if [ ! -f profile/.github/profile/README.md ]; then
+            echo "Error: profile/.github/profile/README.md not found"
             exit 1
           fi
 
@@ -35,7 +35,7 @@ jobs:
             fi
 
             cd $REPO
-            cp ../profile/README.md README.md
+            cp ../profile/.github/profile/README.md README.md
             git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
