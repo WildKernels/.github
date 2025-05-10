@@ -11,19 +11,9 @@ jobs:
     steps:
       - name: Checkout profile repo
         uses: actions/checkout@v3
-        with:
-          path: profile  # Check out the profile repo to 'profile/' directory
 
       - name: Copy README to other repos
-        env:
-          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Use a PAT for broader permissions
         run: |
-          # Verify README.md exists in .github/profile/
-          if [ ! -f profile/.github/profile/README.md ]; then
-            echo "Error: profile/.github/profile/README.md not found"
-            exit 1
-          fi
-
           REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")
 
           for REPO in "${REPOS[@]}"; do
