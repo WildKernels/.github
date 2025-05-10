@@ -13,6 +13,8 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Copy README to other repos
+        env:
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
           REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")
 
@@ -43,7 +45,7 @@ jobs:
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit in $REPO"
-            git push https://x-access-token:$GH_TOKEN@github.com/WildKernels/$REPO.git $DEFAULT_BRANCH
+            git push https://x-access-token:$GITHUB_TOKEN@github.com/WildKernels/$REPO.git $DEFAULT_BRANCH
             if [ $? -ne 0 ]; then
               echo "Failed to push to $REPO"
             fi
