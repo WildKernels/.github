@@ -19,7 +19,7 @@ jobs:
           REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")  # Your repository name
 
           for REPO in "${REPOS[@]}"; do
-            git clone https://github.com/WildPlusKernel/$REPO.git
+            git clone https://github.com/WildKernels/$REPO.git
             cd $REPO
 
             cp ../profile/README.md README.md
