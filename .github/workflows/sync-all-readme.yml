@@ -38,8 +38,8 @@ jobs:
             git checkout $DEFAULT_BRANCH || git checkout -b $DEFAULT_BRANCH
 
             cp ../profile/README.md README.md
-            git config user.name "TheWildJames"
-            git config user.email "bins4us@hotmail.com"
+            #git config user.name "TheWildJames"
+            #git config user.email "bins4us@hotmail.com"
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit in $REPO"
