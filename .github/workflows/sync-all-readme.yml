@@ -27,7 +27,7 @@ jobs:
             fi
 
             cd $REPO
-            cp ./.github/profile/README.md README.md
+            cp ../profile/README.md README.md
             git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
