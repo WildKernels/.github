@@ -11,11 +11,19 @@ jobs:
     steps:
       - name: Checkout profile repo
         uses: actions/checkout@v3
+        with:
+          path: profile  # Check out the profile repo to 'profile/' directory
 
       - name: Copy README to other repos
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Use a PAT for broader permissions
         run: |
+          # Verify README.md exists in .github/profile/
+          if [ ! -f profile/.github/profile/README.md ]; then
+            echo "Error: profile/.github/profile/README.md not found"
+            exit 1
+          fi
+
           REPOS=("GKI_KernelSU_SUSFS" "Sultan_KernelSU_SUSFS" "OnePlus_KernelSU_SUSFS" "Pixel_KernelSU_SUSFS")
 
           for REPO in "${REPOS[@]}"; do
@@ -27,13 +35,25 @@ jobs:
             fi
 
             cd $REPO
-            cp ../profile/README.md README.md
+
+            # Detect the default branch
+            DEFAULT_BRANCH=$(git ls-remote --symref origin HEAD | grep 'ref: refs/heads/' | sed 's|.*refs/heads/||' | sed 's|\s.*||')
+            if [ -z "$DEFAULT_BRANCH" ]; then
+              echo "Failed to detect default branch for $REPO, assuming 'main'"
+              DEFAULT_BRANCH="main"
+            fi
+            echo "Default branch for $REPO is $DEFAULT_BRANCH"
+
+            # Ensure the default branch is checked out
+            git checkout $DEFAULT_BRANCH || git checkout -b $DEFAULT_BRANCH
+
+            cp ../profile/.github/profile/README.md README.md
             git config user.name "TheWildJames"
             git config user.email "bins4us@hotmail.com"
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit in $REPO"
-            git push https://x-access-token:$GH_TOKEN@github.com/WildKernels/$REPO.git main
+            git push https://x-access-token:$GH_TOKEN@github.com/WildKernels/$REPO.git $DEFAULT_BRANCH
             if [ $? -ne 0 ]; then
               echo "Failed to push to $REPO"
             fi
