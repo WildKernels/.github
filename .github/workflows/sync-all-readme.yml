@@ -45,7 +45,7 @@ jobs:
 
             git add README.md
             git commit -m "Sync README from profile" || echo "No changes to commit in $REPO"
-            git push https://x-access-token:$GITHUB_TOKEN@github.com/WildKernels/$REPO.git $DEFAULT_BRANCH
+            git push https://x-access-token:$GH_TOKEN@github.com/WildKernels/$REPO.git $DEFAULT_BRANCH
             if [ $? -ne 0 ]; then
               echo "Failed to push to $REPO"
             fi
