@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout profile repo
         uses: actions/checkout@v3
-        with:
-          path: profile  # Check out the profile repo to 'profile/' directory
 
       - name: Copy README to other repos
         env:
