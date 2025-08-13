@@ -1,68 +1,163 @@
-# StinkHub Website
+# Wild Kernels Website
 
-A modern website for StinkHub - Premium Android Kernel Development, featuring custom kernels with KernelSU & SUSFS integration.
+🌿 **Premium Android Kernels for Enhanced Performance**
 
-## Features
+This repository contains the official website for Wild Kernels, showcasing our collection of high-performance Android kernels with KernelSU and SUSFS support.
 
-- Modern, responsive design
-- Cannabis leaf background theme
-- Links to TheWildJames and WildKernels GitHub repositories
-- Information about available kernels (GKI, OnePlus, Sultan)
-- Docker containerization for easy deployment
+## 🚀 Features
 
-## Quick Start with Docker
+- **Modern Design**: Clean, responsive design with cannabis-themed green aesthetics
+- **Performance Focused**: Optimized for fast loading and smooth animations
+- **Mobile Responsive**: Fully responsive design that works on all devices
+- **GitHub Pages Ready**: Automated deployment via GitHub Actions
+- **SEO Optimized**: Includes sitemap.xml and robots.txt
 
-### Using Docker Compose (Recommended)
+## 🛠️ Technology Stack
 
-1. Build and run the container:
-```bash
-docker-compose up -d --build
+- **HTML5**: Semantic markup with accessibility in mind
+- **CSS3**: Modern styling with CSS Grid, Flexbox, and animations
+- **JavaScript**: Interactive features and smooth scrolling
+- **GitHub Actions**: Automated deployment to GitHub Pages
+- **Font Awesome**: Icon library for consistent iconography
+- **Google Fonts**: Inter font family for clean typography
+
+## 📦 Available Kernels
+
+### GKI Kernel
+- Generic Kernel Image with enhanced performance
+- KernelSU and SUSFS support
+- Wide device compatibility
+
+### OnePlus Kernel
+- Specialized for OnePlus devices
+- Custom governors and optimizations
+- Enhanced gaming performance
+
+### Sultan Kernel
+- Based on Sultan's work with Wild Kernels enhancements
+- Stability focused with long-term support
+- Premium kernel experience
+
+## 🌟 Key Features
+
+- **KernelSU Integration**: Modern, secure root solution
+- **SUSFS Support**: Advanced hiding capabilities
+- **Performance Optimization**: Maximum performance with stability
+- **Open Source**: Transparent development on GitHub
+- **Community Driven**: Built by and for the Android community
+- **Regular Updates**: Frequent updates with latest features
+
+## 🚀 Deployment
+
+The website is automatically deployed to GitHub Pages using GitHub Actions:
+
+1. **Automatic Deployment**: Triggers on push to main branch
+2. **Manual Deployment**: Can be triggered manually from Actions tab
+3. **Pull Request Preview**: Builds on pull requests for testing
+
+### Manual Deployment
+
+1. Go to the [Actions tab](https://github.com/WildKernels/.github/actions)
+2. Select "Deploy Wild Kernels Website"
+3. Click "Run workflow"
+4. Choose the main branch
+5. Click "Run workflow" button
+
+## 🔧 Local Development
+
+To run the website locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/WildKernels/.github.git
+   cd .github
+   ```
+
+2. Open `index.html` in your browser or use a local server:
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Using Node.js
+   npx serve .
+   
+   # Using PHP
+   php -S localhost:8000
+   ```
+
+3. Visit `http://localhost:8000` in your browser
+
+## 📁 Project Structure
+
+```
+.
+├── .github/
+│   └── workflows/
+│       └── deploy.yml          # GitHub Actions workflow
+├── profile/
+│   └── README.md              # GitHub organization profile
+├── index.html                 # Main website file
+├── style.css                  # Stylesheet with animations
+├── script.js                  # JavaScript functionality
+└── README.md                  # This file
 ```
 
-2. Access the website at: http://localhost:8080
+## 🎨 Design System
 
-3. To stop the container:
-```bash
-docker-compose down
-```
+### Colors
+- **Primary Green**: `#4CAF50` - Main brand color
+- **Light Green**: `#8BC34A` - Secondary accent
+- **Lime Green**: `#CDDC39` - Gradient accent
+- **Dark Background**: `#0a0a0a` - Primary background
+- **Card Background**: `#111` - Secondary background
 
-### Using Docker directly
+### Typography
+- **Font Family**: Inter (Google Fonts)
+- **Weights**: 300, 400, 500, 600, 700
+- **Responsive sizing**: Scales appropriately on mobile
 
-1. Build the Docker image:
-```bash
-docker build -t stinkhub-web .
-```
+### Components
+- **Cards**: Glassmorphism effect with hover animations
+- **Buttons**: Multiple variants with ripple effects
+- **Navigation**: Fixed header with smooth scrolling
+- **Animations**: Floating cards, fade-in effects, parallax
 
-2. Run the container:
-```bash
-docker run -d -p 8080:80 --name stinkhub-website stinkhub-web
-```
+## 🤝 Contributing
 
-3. Access the website at: http://localhost:8080
+We welcome contributions to improve the website:
 
-4. To stop and remove the container:
-```bash
-docker stop stinkhub-website
-docker rm stinkhub-website
-```
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'Add amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
+5. Open a Pull Request
 
-## Development
+## 📱 Browser Support
 
-The website consists of:
-- `index.html` - Main HTML structure
-- `style.css` - Styling with cannabis leaf background
-- `Dockerfile` - Container configuration
-- `docker-compose.yml` - Docker Compose setup
+- **Chrome**: Latest 2 versions
+- **Firefox**: Latest 2 versions
+- **Safari**: Latest 2 versions
+- **Edge**: Latest 2 versions
+- **Mobile**: iOS Safari, Chrome Mobile
 
-## Links
+## 📄 License
 
-- [TheWildJames GitHub](https://github.com/TheWildJames)
-- [Wild Kernels Organization](https://github.com/WildKernels)
+This project is open source and available under the [GPL License](LICENSE).
 
-## Disclaimer
+## 🔗 Links
 
-⚠️ **Your warranty is no longer valid!** Flash kernels at your own risk!
+- **Website**: [https://wildkernels.github.io/.github/](https://wildkernels.github.io/.github/)
+- **GitHub Organization**: [https://github.com/WildKernels](https://github.com/WildKernels)
+- **Developer**: [https://github.com/james-things](https://github.com/james-things)
 
-## License
+## 📞 Support
 
-This project is for educational and development purposes.
+For support and questions:
+
+- **GitHub Issues**: [Report issues](https://github.com/WildKernels/.github/issues)
+- **Community**: [Join discussions](https://github.com/WildKernels/community)
+- **Documentation**: [View docs](https://github.com/WildKernels)
+
+---
+
+**Wild Kernels** - Premium Android kernels for enhanced performance and security. 🌿

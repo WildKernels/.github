@@ -3,103 +3,317 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wild Kernels - Android Kernel Development</title>
+    <title>Wild Kernels - Premium Android Kernels</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <div class="background-overlay"></div>
-    
-    <header>
-        <nav class="navbar">
-            <div class="nav-brand">
-                <h1>Wild Kernels</h1>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-leaf"></i>
+                <span>Wild Kernels</span>
             </div>
-            <div class="nav-links">
-                <a href="#kernels">Kernels</a>
-                <a href="#features">Features</a>
-                <a href="#contact">Contact</a>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#kernels">Kernels</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
-        </nav>
-    </header>
+        </div>
+    </nav>
 
-    <main>
-        <section class="hero">
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-container">
             <div class="hero-content">
-                <h1 class="hero-title">Wild Kernels</h1>
-                <p class="hero-subtitle">Premium Android Kernel Development</p>
-                <p class="hero-description">Custom kernels with KernelSU & SUSFS for enhanced Android performance and root capabilities</p>
+                <h1 class="hero-title">
+                    <span class="gradient-text">Wild Kernels</span>
+                    <br>Premium Android Performance
+                </h1>
+                <p class="hero-description">
+                    Experience the ultimate in Android kernel performance with our carefully crafted, 
+                    high-performance kernels featuring KernelSU and advanced security.
+                </p>
                 <div class="hero-buttons">
-                    <a href="https://github.com/TheWildJames" class="btn btn-primary" target="_blank">TheWildJames</a>
-                    <a href="https://github.com/WildKernels" class="btn btn-secondary" target="_blank">Wild Kernels</a>
+                    <a href="#kernels" class="btn btn-primary">
+                        <i class="fas fa-download"></i>
+                        Download Kernels
+                    </a>
+                    <a href="https://github.com/WildKernels" class="btn btn-secondary">
+                        <i class="fab fa-github"></i>
+                        View on GitHub
+                    </a>
                 </div>
             </div>
-        </section>
-
-        <section id="kernels" class="section">
-            <div class="container">
-                <h2>Available Kernels</h2>
-                <div class="kernel-grid">
-                    <div class="kernel-card">
-                        <h3>GKI Kernels</h3>
-                        <p>Generic Kernel Image kernels with KernelSU & SUSFS support</p>
-                        <span class="kernel-stats">802 ⭐ | 2.5k 🍴</span>
-                    </div>
-                    <div class="kernel-card">
-                        <h3>OnePlus Kernels</h3>
-                        <p>Optimized kernels specifically for OnePlus devices</p>
-                        <span class="kernel-stats">162 ⭐ | 233 🍴</span>
-                    </div>
-                    <div class="kernel-card">
-                        <h3>Sultan Kernels</h3>
-                        <p>High-performance kernels built with KernelSU & SUSFS</p>
-                        <span class="kernel-stats">63 ⭐ | 62 🍴</span>
-                    </div>
+            <div class="hero-visual">
+                <div class="floating-card">
+                    <i class="fas fa-microchip"></i>
+                    <h3>High Performance</h3>
+                    <p>Optimized for speed</p>
+                </div>
+                <div class="floating-card">
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>KernelSU Ready</h3>
+                    <p>Built-in root solution</p>
+                </div>
+                <div class="floating-card">
+                    <i class="fas fa-leaf"></i>
+                    <h3>Battery Optimized</h3>
+                    <p>Extended battery life</p>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section id="features" class="section">
-            <div class="container">
-                <h2>Key Features</h2>
-                <div class="features-grid">
-                    <div class="feature-item">
-                        <h3>KernelSU</h3>
-                        <p>Root solution for Android GKI devices working in kernel mode</p>
-                    </div>
-                    <div class="feature-item">
-                        <h3>SUSFS</h3>
-                        <p>Advanced root hiding kernel patches and userspace module</p>
-                    </div>
-                    <div class="feature-item">
-                        <h3>Performance</h3>
-                        <p>Optimized for maximum performance and stability</p>
-                    </div>
-                    <div class="feature-item">
-                        <h3>Security</h3>
-                        <p>Enhanced security features and root management</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="contact" class="section">
-            <div class="container">
-                <h2>Get In Touch</h2>
-                <p>Join our community and stay updated with the latest kernel developments</p>
-                <div class="contact-links">
-                    <a href="https://github.com/TheWildJames" class="contact-link" target="_blank">GitHub Profile</a>
-                    <a href="https://github.com/WildKernels" class="contact-link" target="_blank">Wild Kernels Org</a>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <footer>
+    <!-- Kernels Section -->
+    <section id="kernels" class="kernels">
         <div class="container">
-            <p>&copy; 2024 Wild Kernels. All rights reserved.</p>
-            <p class="disclaimer">⚠️ Your warranty is no longer valid! Flash at your own risk!</p>
+            <h2 class="section-title">Available Kernels</h2>
+            <p class="section-subtitle">Choose from our collection of premium Android kernels</p>
+            
+            <div class="kernels-grid">
+                <div class="kernel-card">
+                    <div class="kernel-icon">
+                        <i class="fas fa-android"></i>
+                    </div>
+                    <h3>GKI Kernel</h3>
+                    <p>Generic Kernel Image with enhanced performance and compatibility across multiple devices.</p>
+                    <ul class="kernel-features">
+                        <li><i class="fas fa-check"></i> KernelSU Support</li>
+                        <li><i class="fas fa-check"></i> SUSFS Integration</li>
+                        <li><i class="fas fa-check"></i> Performance Optimized</li>
+                        <li><i class="fas fa-check"></i> Wide Device Support</li>
+                    </ul>
+                    <a href="https://github.com/WildKernels/android_kernel_gki" class="btn btn-outline">
+                        <i class="fab fa-github"></i>
+                        View Source
+                    </a>
+                </div>
+
+                <div class="kernel-card featured">
+                    <div class="featured-badge">Most Popular</div>
+                    <div class="kernel-icon">
+                        <i class="fas fa-mobile-alt"></i>
+                    </div>
+                    <h3>OnePlus Kernel</h3>
+                    <p>Specialized kernel for OnePlus devices with advanced customizations and optimizations.</p>
+                    <ul class="kernel-features">
+                        <li><i class="fas fa-check"></i> OnePlus Optimized</li>
+                        <li><i class="fas fa-check"></i> KernelSU Built-in</li>
+                        <li><i class="fas fa-check"></i> Custom Governors</li>
+                        <li><i class="fas fa-check"></i> Enhanced Gaming</li>
+                    </ul>
+                    <a href="https://github.com/WildKernels/android_kernel_oneplus" class="btn btn-primary">
+                        <i class="fab fa-github"></i>
+                        View Source
+                    </a>
+                </div>
+
+                <div class="kernel-card">
+                    <div class="kernel-icon">
+                        <i class="fas fa-crown"></i>
+                    </div>
+                    <h3>Sultan Kernel</h3>
+                    <p>Premium kernel based on Sultan's work with additional Wild Kernels enhancements.</p>
+                    <ul class="kernel-features">
+                        <li><i class="fas fa-check"></i> Sultan Base</li>
+                        <li><i class="fas fa-check"></i> Wild Enhancements</li>
+                        <li><i class="fas fa-check"></i> Stability Focused</li>
+                        <li><i class="fas fa-check"></i> Long-term Support</li>
+                    </ul>
+                    <a href="https://github.com/WildKernels/android_kernel_sultan" class="btn btn-outline">
+                        <i class="fab fa-github"></i>
+                        View Source
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2 class="section-title">Why Choose Wild Kernels?</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <div class="feature-icon">
+                        <i class="fas fa-rocket"></i>
+                    </div>
+                    <h3>Performance First</h3>
+                    <p>Every kernel is optimized for maximum performance while maintaining stability and battery efficiency.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>KernelSU Integration</h3>
+                    <p>Built-in KernelSU support provides a modern, secure root solution without compromising system integrity.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <div class="feature-icon">
+                        <i class="fas fa-eye-slash"></i>
+                    </div>
+                    <h3>SUSFS Support</h3>
+                    <p>Advanced hiding capabilities with SUSFS integration for enhanced privacy and security.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <div class="feature-icon">
+                        <i class="fas fa-code-branch"></i>
+                    </div>
+                    <h3>Open Source</h3>
+                    <p>All our kernels are open source and available on GitHub for transparency and community contributions.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <div class="feature-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h3>Community Driven</h3>
+                    <p>Built by the community, for the community. Join our active development and support community.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <div class="feature-icon">
+                        <i class="fas fa-sync-alt"></i>
+                    </div>
+                    <h3>Regular Updates</h3>
+                    <p>Frequent updates with latest security patches, performance improvements, and new features.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team" class="team">
+        <div class="container">
+            <h2 class="section-title">Meet the Team</h2>
+            <p class="section-subtitle">The passionate developers behind Wild Kernels</p>
+            
+            <div class="team-grid">
+                <div class="team-member">
+                    <div class="member-avatar">
+                        <i class="fas fa-user-circle"></i>
+                    </div>
+                    <h3>Core Developers</h3>
+                    <p class="member-role">Kernel Development Team</p>
+                    <p>Experienced Android kernel developers working on performance optimization and security enhancements.</p>
+                    <div class="member-links">
+                        <a href="https://github.com/WildKernels"><i class="fab fa-github"></i></a>
+                        <a href="https://github.com/james-things"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+                
+                <div class="team-member">
+                    <div class="member-avatar">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h3>Community</h3>
+                    <p class="member-role">Contributors & Testers</p>
+                    <p>Amazing community members who contribute code, test kernels, and provide valuable feedback.</p>
+                    <div class="member-links">
+                        <a href="https://github.com/WildKernels"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="section-subtitle">Join our community or contribute to the project</p>
+            
+            <div class="contact-grid">
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fab fa-github"></i>
+                    </div>
+                    <h3>GitHub</h3>
+                    <p>Check out our repositories, report issues, or contribute code</p>
+                    <a href="https://github.com/WildKernels" class="contact-link">Visit GitHub</a>
+                </div>
+                
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-comments"></i>
+                    </div>
+                    <h3>Community</h3>
+                    <p>Join discussions, get support, and share your experience</p>
+                    <a href="https://github.com/WildKernels/community" class="contact-link">Join Community</a>
+                </div>
+                
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-bug"></i>
+                    </div>
+                    <h3>Issues</h3>
+                    <p>Report bugs, request features, or get technical support</p>
+                    <a href="https://github.com/WildKernels/issues" class="contact-link">Report Issues</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <div class="footer-logo">
+                        <i class="fas fa-leaf"></i>
+                        <span>Wild Kernels</span>
+                    </div>
+                    <p>Premium Android kernels for enhanced performance and security.</p>
+                </div>
+                
+                <div class="footer-links">
+                    <div class="footer-section">
+                        <h4>Kernels</h4>
+                        <ul>
+                            <li><a href="https://github.com/WildKernels/android_kernel_gki">GKI Kernel</a></li>
+                            <li><a href="https://github.com/WildKernels/android_kernel_oneplus">OnePlus Kernel</a></li>
+                            <li><a href="https://github.com/WildKernels/android_kernel_sultan">Sultan Kernel</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h4>Resources</h4>
+                        <ul>
+                            <li><a href="https://github.com/WildKernels">Documentation</a></li>
+                            <li><a href="https://github.com/WildKernels/community">Community</a></li>
+                            <li><a href="https://github.com/WildKernels/issues">Support</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h4>Connect</h4>
+                        <ul>
+                            <li><a href="https://github.com/WildKernels">GitHub</a></li>
+                            <li><a href="https://github.com/james-things">Developer</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 Wild Kernels. Open source project under GPL license.</p>
+            </div>
         </div>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
