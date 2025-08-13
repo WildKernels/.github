@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  stinkhub-web:
+    build: .
+    container_name: stinkhub-website
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    networks:
+      - stinkhub-network
+
+networks:
+  stinkhub-network:
+    driver: bridge
