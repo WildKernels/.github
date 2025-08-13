@@ -30,11 +30,17 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
+      - name: Prepare site files
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp style.css _site/
+          cp -r .github _site/ 2>/dev/null || true
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: '_site'
 
   # Deployment job
   deploy:
