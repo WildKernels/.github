@@ -1252,11 +1252,24 @@ body {
     margin: 0 auto 25px;
     border: 1px solid var(--border-dark);
     box-shadow: var(--glow-accent);
+    overflow: hidden;
 }
 
 .member-avatar i {
     font-size: 3rem;
     color: var(--accent-blue);
+}
+
+.github-avatar {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+
+.team-member:hover .github-avatar {
+    transform: scale(1.1);
 }
 
 .team-member h3 {
