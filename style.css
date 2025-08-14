@@ -278,12 +278,23 @@ body {
 /* Hero Section */
 .hero {
     min-height: 100vh;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
     overflow: hidden;
     background: var(--light-gradient);
+    padding: 60px 0;
+}
+
+@media (max-height: 600px) {
+    .hero {
+        min-height: auto;
+        padding: 40px 0;
+        align-items: flex-start;
+        padding-top: 80px;
+    }
 }
 
 .hero::before {
@@ -307,6 +318,14 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 100%;
+}
+
+@media (max-height: 600px) {
+    .hero-content {
+        justify-content: flex-start;
+        padding-top: 20px;
+    }
 }
 
 /* Desktop Hero */
@@ -333,6 +352,18 @@ body {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     line-height: 1.2;
+}
+
+@media (max-height: 600px) {
+    .desktop-hero h1 {
+        font-size: 2.8rem;
+        margin-bottom: 15px;
+    }
+    
+    .desktop-hero h2 {
+        font-size: 1.4rem;
+        margin-bottom: 20px;
+    }
 }
 
 .desktop-hero h2 {
