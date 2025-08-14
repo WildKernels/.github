@@ -395,6 +395,14 @@ body {
     transition: all 0.3s ease;
 }
 
+.mobile-feature a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+}
+
 .mobile-feature:hover {
     transform: translateY(-5px);
 }
