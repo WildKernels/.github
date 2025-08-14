@@ -147,11 +147,13 @@
                         <i class="fas fa-android"></i>
                     </div>
                     <h3>GKI <span class="highlight">2.0</span> Kernel</h3>
-                    <p>Generic Kernel Image with enhanced performance and compatibility across multiple devices.</p>
+                    <p>Generic Kernel Image 2.0 - Google's standardized Linux kernel for Android 12+ devices with stable Kernel Module Interface, enabling independent updates and reducing device fragmentation.</p>
                     <ul class="kernel-features">
                         <li><i class="fas fa-check"></i> KernelSU Support</li>
                         <li><i class="fas fa-check"></i> SUSFS Integration</li>
-                        <li><i class="fas fa-check"></i> Wide Device Support</li>
+                        <li><i class="fas fa-check"></i> Stable Kernel Module Interface</li>
+                        <li><i class="fas fa-check"></i> Hardware-agnostic Design</li>
+                        <li><i class="fas fa-check"></i> Independent Security Updates</li>
                     </ul>
                     <div class="repo-stats">
                         <span class="stat"><i class="fas fa-star"></i> <span id="gki-stars">Loading...</span></span>
@@ -208,10 +210,28 @@
                     </a>
                 </div>
             </div>
+            
+            <div class="kernel-info-note">
+                <div class="info-icon">
+                    <i class="fas fa-info-circle"></i>
+                </div>
+                <div class="info-content">
+                    <h4>Important Technical Information</h4>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <strong>Kernel vs Android Version:</strong> Your kernel version (e.g., 5.10.101-android12) may differ from your Android system version (e.g., Android 13). The kernel version typically corresponds to the Android version that shipped with your device.
+                        </div>
+                        <div class="info-item">
+                            <strong>GKI Evolution:</strong> GKI 2.0 (Android 12+) enforces a stable Kernel Module Interface, separating hardware-specific code into loadable modules, unlike Pre-GKI custom kernels that caused fragmentation.
+                        </div>
+                        <div class="info-item">
+                            <strong>LTS Support:</strong> All our kernels are based on Long-Term Support (LTS) kernel versions, ensuring stability and extended security updates for your device.
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
-
-
 
     <!-- Features Section -->
     <section id="features" class="features">
@@ -247,7 +267,7 @@
                         <i class="fas fa-user-astronaut"></i>
                     </div>
                     <h3><a href="https://gitlab.com/simonpunk/susfs4ksu" target="_blank" rel="noopener noreferrer">SUSFS Support</a></h3>
-                    <p>Advanced hiding capabilities with SUSFS integration for enhanced privacy and security.</p>
+                    <p>Sophisticated Userspace Spoofing File System - Advanced root hiding and detection bypass capabilities with seamless KernelSU integration for maximum stealth and security.</p>
                 </div>
                 
                 <div class="feature-item">
