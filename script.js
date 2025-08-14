@@ -503,15 +503,15 @@ class GitHubStatsManager {
     setFallbackStats(key) {
         // Set fallback stats when API fails
         const fallbackStats = {
-            gki: { stars: 45, forks: 12, watchers: 8 },
-            oneplus: { stars: 67, forks: 18, watchers: 15 },
-            sultan: { stars: 34, forks: 9, watchers: 6 },
-            pixel: { stars: 23, forks: 7, watchers: 4 },
-            patches: { stars: 28, forks: 11, watchers: 5 },
-            scripts: { stars: 15, forks: 4, watchers: 3 },
-            format: { stars: 19, forks: 6, watchers: 2 },
+            gki: { stars: 2, forks: 1, watchers: 1 },
+            oneplus: { stars: 2, forks: 1, watchers: 1 },
+            sultan: { stars: 2, forks: 1, watchers: 1 },
+            pixel: { stars: 2, forks: 1, watchers: 1 },
+            patches: { stars: 2, forks: 1, watchers: 1 },
+            scripts: { stars: 2, forks: 1, watchers: 1 },
+            format: { stars: 2, forks: 1, watchers: 1 },
             flasher: { stars: 156, forks: 32, watchers: 24 },
-            profile: { stars: 12, forks: 3, watchers: 2 }
+            profile: { stars: 2, forks: 1, watchers: 1 }
         };
 
         const stats = fallbackStats[key] || { stars: 0, forks: 0, watchers: 0 };
@@ -558,5 +558,6 @@ window.WildKernels = {
     NavbarManager,
     AnimationManager,
     PerformanceManager,
-    ThemeManager
+    ThemeManager,
+    GitHubStatsManager
 };
