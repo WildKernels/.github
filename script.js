@@ -453,6 +453,16 @@ class GitHubStatsManager {
             'flasher': 'libxzr/HorizonKernelFlasher',
             'profile': 'WildKernels/.github'
         };
+        // GitHub Personal Access Token (required for traffic API)
+        // SECURITY NOTE: Never commit your actual token to version control!
+        // Set GITHUB_TOKEN environment variable or replace the placeholder below
+        // Create token at: https://github.com/settings/tokens
+        // Required scopes: 'repo' (for private repos) or 'public_repo' (for public repos)
+        this.githubToken = window.GITHUB_TOKEN || 'YOUR_GITHUB_TOKEN_HERE';
+        
+        if (this.githubToken === 'YOUR_GITHUB_TOKEN_HERE') {
+            console.warn('GitHub token not set. Set GITHUB_TOKEN environment variable or replace placeholder in code.');
+        }
         this.init();
     }
 
@@ -473,20 +483,68 @@ class GitHubStatsManager {
 
     async fetchRepoStats(key, repo) {
         try {
-            const response = await fetch(`https://api.github.com/repos/${repo}`);
-            if (!response.ok) {
-                throw new Error(`HTTP ${response.status}`);
+            console.log(`Fetching real stats for ${repo}...`);
+            
+            const headers = {
+                'Accept': 'application/vnd.github.v3+json',
+                'User-Agent': 'WildKernels-Website'
+            };
+            
+            // Add authentication if token is provided
+            if (this.githubToken && this.githubToken !== 'YOUR_GITHUB_TOKEN_HERE') {
+                headers['Authorization'] = `Bearer ${this.githubToken}`;
             }
-            const data = await response.json();
+            
+            // Fetch repository basic stats
+            const repoResponse = await fetch(`https://api.github.com/repos/${repo}`, { headers });
+            
+            if (!repoResponse.ok) {
+                if (repoResponse.status === 403) {
+                    console.warn(`Rate limited for ${repo}, will show 0 stats`);
+                } else {
+                    console.warn(`HTTP ${repoResponse.status} for ${repo}`);
+                }
+                throw new Error(`HTTP ${repoResponse.status}`);
+            }
+            
+            const repoData = await repoResponse.json();
+            
+            // Fetch traffic views if authenticated
+            let viewCount = 0;
+            if (this.githubToken && this.githubToken !== 'YOUR_GITHUB_TOKEN_HERE') {
+                try {
+                    const trafficResponse = await fetch(`https://api.github.com/repos/${repo}/traffic/views`, { headers });
+                    if (trafficResponse.ok) {
+                        const trafficData = await trafficResponse.json();
+                        viewCount = trafficData.count || 0;
+                        console.log(`Traffic views for ${repo}: ${viewCount}`);
+                    } else {
+                        console.warn(`Could not fetch traffic for ${repo}: ${trafficResponse.status}`);
+                    }
+                } catch (trafficError) {
+                    console.warn(`Traffic API failed for ${repo}:`, trafficError);
+                }
+            }
+            
+            console.log(`Real stats for ${repo}:`, {
+                stars: repoData.stargazers_count,
+                forks: repoData.forks_count,
+                views: viewCount
+            });
             
             this.updateStatsDisplay(key, {
-                stars: data.stargazers_count || 0,
-                forks: data.forks_count || 0,
-                watchers: data.watchers_count || 0
+                stars: repoData.stargazers_count || 0,
+                forks: repoData.forks_count || 0,
+                watchers: viewCount // Using views instead of watchers
             });
         } catch (error) {
-            console.warn(`Error fetching ${repo}:`, error);
-            this.setFallbackStats(key);
+            console.error(`Failed to fetch ${repo}:`, error);
+            // No fallback stats - only show real numbers
+            this.updateStatsDisplay(key, {
+                stars: 0,
+                forks: 0,
+                watchers: 0
+            });
         }
     }
 
@@ -500,23 +558,7 @@ class GitHubStatsManager {
         if (watchersElement) watchersElement.textContent = this.formatNumber(stats.watchers);
     }
 
-    setFallbackStats(key) {
-        // Set fallback stats when API fails
-        const fallbackStats = {
-            gki: { stars: 2, forks: 1, watchers: 1 },
-            oneplus: { stars: 2, forks: 1, watchers: 1 },
-            sultan: { stars: 2, forks: 1, watchers: 1 },
-            pixel: { stars: 2, forks: 1, watchers: 1 },
-            patches: { stars: 2, forks: 1, watchers: 1 },
-            scripts: { stars: 2, forks: 1, watchers: 1 },
-            format: { stars: 2, forks: 1, watchers: 1 },
-            flasher: { stars: 156, forks: 32, watchers: 24 },
-            profile: { stars: 2, forks: 1, watchers: 1 }
-        };
 
-        const stats = fallbackStats[key] || { stars: 0, forks: 0, watchers: 0 };
-        this.updateStatsDisplay(key, stats);
-    }
 
     formatNumber(num) {
         if (num >= 1000) {

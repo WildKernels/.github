@@ -303,6 +303,10 @@ body {
     padding: 0 20px;
     position: relative;
     z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Desktop Hero */
@@ -729,7 +733,7 @@ body {
 }
 
 .btn-outline {
-    background: transparent;
+    background: rgba(34, 197, 94, 0.1);
     color: var(--accent-blue);
     border: 2px solid var(--accent-blue);
     padding: 12px 25px;
@@ -738,6 +742,14 @@ body {
     font-weight: var(--font-weight-semibold);
     transition: all 0.3s ease;
     display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(34, 197, 94, 0.2);
+    min-width: 200px;
+    position: relative;
+    overflow: hidden;
 }
 
 .kernel-info-note {
@@ -795,11 +807,16 @@ body {
     gap: 8px;
 }
 
-.btn-outline:hover {
-    background: var(--primary-green);
-    color: var(--white);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-light);
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active {
+    background: var(--accent-blue) !important;
+    color: var(--text-inverse) !important;
+    transform: translateY(-3px) scale(1.02) !important;
+    box-shadow: 0 8px 25px rgba(34, 197, 94, 0.4) !important;
+    border-color: var(--accent-blue) !important;
+    outline: none;
+    filter: brightness(1.1);
 }
 
 /* Repositories Section */
@@ -1194,6 +1211,9 @@ body {
     margin: 0 auto 25px;
     border: 1px solid var(--border-dark);
     box-shadow: var(--glow-accent);
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--accent-blue);
 }
 
 .feature-icon i {
