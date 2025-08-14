@@ -87,9 +87,6 @@ class DeviceManager {
         // Reduce animations on mobile for better performance
         const style = document.createElement('style');
         style.textContent = `
-            .mobile-device .floating-card {
-                animation: none !important;
-            }
             .mobile-device * {
                 transition-duration: 0.2s !important;
             }
@@ -99,26 +96,7 @@ class DeviceManager {
     
     enableDesktopAnimations() {
         // Enhanced desktop animations
-        this.setupFloatingCards();
         this.setupMouseFollower();
-    }
-    
-    setupFloatingCards() {
-        const cards = document.querySelectorAll('.floating-card');
-        cards.forEach((card, index) => {
-            // Add random floating animation delays
-            const delay = Math.random() * 2;
-            card.style.animationDelay = `${delay}s`;
-            
-            // Add mouse interaction
-            card.addEventListener('mouseenter', () => {
-                card.style.transform = 'translateY(-10px) scale(1.05)';
-            });
-            
-            card.addEventListener('mouseleave', () => {
-                card.style.transform = '';
-            });
-        });
     }
     
     setupMouseFollower() {
@@ -156,16 +134,7 @@ class DeviceManager {
     
     setupParallaxEffects() {
         if (!this.isMobile) {
-            window.addEventListener('scroll', () => {
-                const scrolled = window.pageYOffset;
-                const parallaxElements = document.querySelectorAll('.floating-card');
-                
-                parallaxElements.forEach((element, index) => {
-                    const speed = 0.5 + (index * 0.1);
-                    const yPos = -(scrolled * speed);
-                    element.style.transform = `translateY(${yPos}px)`;
-                });
-            });
+            // Parallax effects can be added here for other elements if needed
         }
     }
     
@@ -305,7 +274,7 @@ class AnimationManager {
         }, observerOptions);
         
         // Observe elements that should animate in
-        const animatedElements = document.querySelectorAll('.fade-in, .hero-content, .floating-card');
+        const animatedElements = document.querySelectorAll('.fade-in, .hero-content');
         animatedElements.forEach(el => {
             el.classList.add('fade-in');
             observer.observe(el);
