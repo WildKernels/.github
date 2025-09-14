@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Custom Divider" />
+  <img src="split.gif" alt="Custom Divider" width="100%" height="4px" />
 </div>
 
 ## ⚠️ **DISCLAIMER - READ CAREFULLY!**
@@ -38,7 +38,7 @@
 > By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 📊 **Repository Statistics**
@@ -52,7 +52,7 @@
  </p>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🌟 **Featured Project: Wild KSU**
@@ -72,7 +72,7 @@
 > ⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🔥 **Wild Kernels Collection**
@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🛠️ **Development Tools & Resources**
@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 📋 **Installation Guide**
@@ -122,7 +122,7 @@
 > 💡 **Pro Tip**: Always backup your current boot.img before flashing any custom kernel!
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## ✨ **Key Features**
@@ -145,7 +145,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🛠️ **Technologies & Skills**
@@ -172,7 +172,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🏆 **Credits & Acknowledgments**
@@ -195,7 +195,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🆘 **Support & Community**
@@ -213,7 +213,7 @@
 > 💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## ⚠️ **Final Disclaimer**
@@ -245,7 +245,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🌟 **Special Contributors**
@@ -271,7 +271,7 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 <div align="center">
@@ -279,5 +279,5 @@
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Color Wave" />
+  <img src="color_wave.svg" alt="Color Wave" width="100%" height="4px" />
 </div>
