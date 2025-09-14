@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there%21+Welcome+to+Wild+Kernels%21+%F0%9F%91%8B;Building+kernels+and+more+for+Android%21+%F0%9F%94%A7;TheWildJames+was+not+The+Impostor%21+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there%21+Welcome+to+Wild+Kernels%21+%F0%9F%91%8B;Building+kernels+and+more+for+Android%21+%F0%9F%94%A7;TheWildJames+was+not+The+Impostor%21+%E0%B6%9E" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,19 +15,15 @@
 </div>
 
 <div align="center">
-  <h2>📊 TheWildJames Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheWildJames&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TheWildJames Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWildJames&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWildJames&theme=tokyonight&hide_border=true" alt="TheWildJames Streak" />
-</div>
-
-<div align="center">
-  <h2>🔥 WildKernels Organization Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=WildKernels&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WildKernels Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildKernels&layout=compact&theme=tokyonight&hide_border=true" alt="WildKernels Languages" height="165">
+  <h2>⭐ Personal & Organization Metrics</h2>
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=TheWildJames&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=WildKernels&color=blue&style=flat-square&label=Org+Views" alt="Org Views" />
+  
+  <!-- Personal Stars & Forks -->
+  <img src="https://img.shields.io/github/stars/TheWildJames?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&color=yellow&style=flat-square" alt="Total Stars" />
+  <img src="https://img.shields.io/endpoint?url=https://api.github-star-counter.workers.dev/user/TheWildJames&color=green&style=flat-square&label=Total%20Forks" alt="Total Forks" />
 </div>
 
 <div align="center">

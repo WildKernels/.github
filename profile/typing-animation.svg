@@ -1,0 +1,81 @@
+<svg width="940" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .typing-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 32px;
+        fill: #A855F7;
+      }
+      .cursor {
+        font-family: 'Fira Code', monospace;
+        font-size: 32px;
+        fill: #A855F7;
+        animation: blink 1s infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  
+  <text id="typewriter" x="50" y="60" class="typing-text"></text>
+  <text id="cursor" x="50" y="60" class="cursor">|</text>
+  
+  <script>
+    <![CDATA[
+    const messages = [
+      "Hey there! Welcome to Wild Kernels! 👋",
+      "Building kernels and more for Android! 🔧", 
+      "TheWildJames was not The Impostor! ඞ"
+    ];
+    
+    let messageIndex = 0;
+    let charIndex = 0;
+    let isTyping = true;
+    
+    const typewriterElement = document.getElementById('typewriter');
+    const cursorElement = document.getElementById('cursor');
+    
+    function typeWriter() {
+      const currentMessage = messages[messageIndex];
+      
+      if (isTyping) {
+        if (charIndex < currentMessage.length) {
+          typewriterElement.textContent = currentMessage.substring(0, charIndex + 1);
+          
+          // Update cursor position
+          const bbox = typewriterElement.getBBox();
+          cursorElement.setAttribute('x', bbox.x + bbox.width + 5);
+          
+          charIndex++;
+          setTimeout(typeWriter, 100); // Typing speed
+        } else {
+          // Finished typing, wait then start erasing
+          isTyping = false;
+          setTimeout(typeWriter, 2000); // Pause before erasing
+        }
+      } else {
+        if (charIndex > 0) {
+          typewriterElement.textContent = currentMessage.substring(0, charIndex - 1);
+          
+          // Update cursor position
+          const bbox = typewriterElement.getBBox();
+          cursorElement.setAttribute('x', bbox.x + bbox.width + 5);
+          
+          charIndex--;
+          setTimeout(typeWriter, 50); // Erasing speed
+        } else {
+          // Finished erasing, move to next message
+          isTyping = true;
+          messageIndex = (messageIndex + 1) % messages.length;
+          setTimeout(typeWriter, 500); // Pause before next message
+        }
+      }
+    }
+    
+    // Start the animation
+    typeWriter();
+    ]]>
+  </script>
+</svg>
