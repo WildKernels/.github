@@ -130,9 +130,10 @@
 ## 🎯 **Specializations**
 
 <div align="center">
-![Kernel Development](https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
-![Android Modding](https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Root Solutions](https://img.shields.io/badge/Root_Solutions-FF9500?style=for-the-badge&logo=unlock&logoColor=white)
+
+<img src="https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development">
+<img src="https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">
+<img src="https://img.shields.io/badge/Root_Solutions-FF9500?style=for-the-badge&logo=unlock&logoColor=white" alt="Root Solutions">
 
 </div>
 
