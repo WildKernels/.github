@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/🚨-PROCEED_AT_YOUR_OWN_RISK-orange?style=for-the-badge&labelColor=darkorange" alt="Risk Warning">
 </div>
 
-> **Your warranty is no longer valid!**
-> 
-> I am **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
-> 
-> **Please** do thorough research and fully understand the features included before flashing!
-> 
-> By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
+**Your warranty is no longer valid!**
+
+I am **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
+
+**Please** do thorough research and fully understand the features included before flashing!
+
+By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
@@ -63,13 +63,13 @@
   </a>
 </div>
 
-> 🚀 **Wild KSU** - A customization and root hiding focused fork of KernelSU Next with advanced features!
-> 
-> ✨ **Key Features**: Advanced root management, powerful module system, app profile system, and enhanced security
-> 
-> 🔧 **Easy Integration**: Automated kernel setup script available
-> 
-> ⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
+🚀 **Wild KSU** - A customization and root hiding focused fork of KernelSU Next with advanced features!
+
+✨ **Key Features**: Advanced root management, powerful module system, app profile system, and enhanced security
+
+🔧 **Easy Integration**: Automated kernel setup script available
+
+⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
@@ -171,7 +171,7 @@
 
 </div>
 
-> 💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
+💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
