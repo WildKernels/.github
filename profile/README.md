@@ -45,13 +45,10 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 <p align="center">
      <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
-     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=GKI_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GKI_KernelSU_SUSFS"></a>
-     <a href="https://github.com/WildKernels/OnePlus_KernelSU_SUSFS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=OnePlus_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="OnePlus_KernelSU_SUSFS"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
-     <a href="https://github.com/WildKernels/Wild_KSU"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Wild_KSU"></a>
+     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=GKI_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GKI_KernelSU_SUSFS"></a>
+     <a href="https://github.com/WildKernels/OnePlus_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=OnePlus_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="OnePlus_KernelSU_SUSFS"></a>
+     <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
+     <a href="https://github.com/WildKernels/Wild_KSU"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Wild_KSU"></a>
  </p>
 
 <div align="center">
