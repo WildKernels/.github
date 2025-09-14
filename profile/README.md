@@ -117,11 +117,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/KernelSU-Supported-brightgreen?style=for-the-badge&logo=android" alt="KernelSU">
-  <img src="https://img.shields.io/badge/SUSFS-Integrated-blue?style=for-the-badge&logo=shield" alt="SUSFS">
-  <img src="https://img.shields.io/badge/Root_Hiding-Advanced-purple?style=for-the-badge&logo=incognito" alt="Root Hiding">
-</div>
+
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
@@ -133,7 +129,7 @@
 
 <img src="https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development">
 <img src="https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">
-<img src="https://img.shields.io/badge/Root_Solutions-FF9500?style=for-the-badge&logo=unlock&logoColor=white" alt="Root Solutions">
+<img src="https://img.shields.io/badge/Root_Hidings-FF9500?style=for-the-badge&logo=incognito&logoColor=white" alt="Root Hidings">
 
 </div>
 
@@ -164,15 +160,11 @@
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 🆘 **Support & Community**
+## **Support & Community**
 
 <div align="center">
 
-### 💬 **Get Help**
-
-[![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?style=for-the-badge&logo=telegram)](https://t.me/TheWildJames)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/Wild_Kernels)
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/WildKernels)
+### **Get Help**
 
 </div>
 
