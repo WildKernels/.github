@@ -14,24 +14,10 @@
   <img src="coding-animation.gif" width="400" alt="Coding GIF" />
 </div>
 
-<div align="center">
-  <h2>⭐ Personal & Organization Metrics</h2>
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=TheWildJames&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=WildKernels&color=blue&style=flat-square&label=Org+Views" alt="Org Views" />
-  
-  <!-- Personal Stars & Forks -->
-  <img src="https://img.shields.io/github/stars/TheWildJames?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&color=yellow&style=flat-square" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/TheWildJames&query=$.forks&color=green&style=flat-square&label=Total%20Forks" alt="Total Forks" />
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WildKernels&theme=tokyonight&hide_border=true" alt="WildKernels Streak" />
-</div>
-
-<div align="center">
-  <img src="gray0_ctp_on_line.svg" alt="Custom Divider" />
+  <img src="split.gif" alt="Custom Divider" />
 </div>
 
 ---
@@ -55,26 +41,13 @@
 
 ## 📊 **Repository Statistics**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=tokyonight&hide_border=true" alt="Wild KSU">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=GKI_KernelSU_SUSFS&theme=tokyonight&hide_border=true" alt="GKI KernelSU SUSFS">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=tokyonight&hide_border=true" alt="Sultan KernelSU SUSFS">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=OnePlus_KernelSU_SUSFS&theme=tokyonight&hide_border=true" alt="OnePlus KernelSU SUSFS">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+     <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
+     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=GKI_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GKI_KernelSU_SUSFS"></a>
+     <a href="https://github.com/WildKernels/OnePlus_KernelSU_SUSFS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=OnePlus_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="OnePlus_KernelSU_SUSFS"></a>
+    <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
+     <a href="https://github.com/WildKernels/Wild_KSU"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Wild_KSU"></a>
+ </p>
 
 ---
 
@@ -280,5 +253,5 @@
 </div>
 
 <div align="center">
-  <img src="color_wave.svg" alt="Color Wave" />
+  <img src="split.gif" alt="Color Wave" />
 </div>
