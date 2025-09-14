@@ -3,15 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+TheWildJames+%F0%9F%91%8B;Android+Kernel+Developer+%F0%9F%94%A7;Building+Wild+Kernels+for+Android+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there%21+Welcome+to+Wild+Kernels%21+%F0%9F%91%8B;Building+kernels+and+more+for+Android%21+%F0%9F%94%A7;TheWildJames+was+not+The+Impostor%21+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="shark-footer.svg" />
-</div>
-
-<div align="center">
-  <img src="footer.svg" alt="Footer" />
 </div>
 
 <div align="center">
@@ -265,9 +261,5 @@
 </div>
 
 <div align="center">
-  <img src="shark-footer.svg" />
-</div>
-
-<div align="center">
-  <img src="footer.svg" alt="Footer" />
+  <img src="color_wave.svg" alt="Color Wave" />
 </div>
