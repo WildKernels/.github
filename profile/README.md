@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="shark-header.svg" />
+  <img src="./profile/shark-header.svg" />
 </div>
 
 <div align="center">
@@ -7,19 +7,19 @@
 </div>
 
 <div align="center">
-  <img src="shark-footer.svg" />
+  <img src="./profile/shark-footer.svg" />
 </div>
 
 <div align="center">
-  <img src="coding-animation.gif" width="400" alt="Coding GIF" />
+  <img src="./profile/coding-animation.gif" width="400" alt="Coding GIF" />
 </div>
 
 <div align="center">
-  <img src="cat_on_line.svg" alt="Cat on Line" />
+  <img src="./profile/cat_on_line.svg" alt="Cat on Line" width="100%" />
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Custom Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Custom Divider" width="100%" height="4px" />
 </div>
 
 ## ⚠️ **DISCLAIMER - READ CAREFULLY!**
@@ -38,7 +38,7 @@ I am **not responsible** for bricked devices, damaged hardware, or any issues th
 By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 📊 **Repository Statistics**
@@ -55,7 +55,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
  </p>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🌟 **Featured Project: Wild KSU**
@@ -75,7 +75,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 ⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🔥 **Wild Kernels Collection**
@@ -91,7 +91,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🛠️ **Development Tools & Resources**
@@ -105,7 +105,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## ✨ **Key Features**
@@ -120,10 +120,8 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 </div>
 
-
-
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🎯 **Specializations**
@@ -135,13 +133,13 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 <img src="https://img.shields.io/badge/Root_Hidings-FF9500?style=for-the-badge&logo=incognito&logoColor=white" alt="Root Hidings">
 
 <div align="center">
-  <img src="c12.gif" alt="Animation" />
+  <img src="./profile/c12.gif" alt="Animation" />
 </div>
 
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🏆 **Credits & Acknowledgments**
@@ -164,7 +162,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## **Support & Community**
@@ -181,7 +179,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 👨‍💻 **Developers**
@@ -194,7 +192,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 </div>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🌟 **Special Contributors**
@@ -211,11 +209,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🤝-Missing_From_List?_Remind_Me!-yellow?style=for-the-badge" alt="Missing Contributors">
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="./profile/split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 <div align="center">
@@ -223,7 +217,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 </div>
 
 <div align="center">
-  <img src="color_wave.svg" width="1000%" alt="Color Wave" />
+  <img src="./profile/color_wave.svg" width="1000%" alt="Color Wave" />
 </div>
 
 <!--
