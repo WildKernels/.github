@@ -23,7 +23,7 @@
   
   <!-- Personal Stars & Forks -->
   <img src="https://img.shields.io/github/stars/TheWildJames?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&color=yellow&style=flat-square" alt="Total Stars" />
-  <img src="https://img.shields.io/endpoint?url=https://api.github-star-counter.workers.dev/user/TheWildJames&color=green&style=flat-square&label=Total%20Forks" alt="Total Forks" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/TheWildJames&query=$.forks&color=green&style=flat-square&label=Total%20Forks" alt="Total Forks" />
 </div>
 
 <div align="center">
@@ -53,14 +53,37 @@
 
 ---
 
+## 📊 **Repository Statistics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=tokyonight&hide_border=true" alt="Wild KSU">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=GKI_KernelSU_SUSFS&theme=tokyonight&hide_border=true" alt="GKI KernelSU SUSFS">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=tokyonight&hide_border=true" alt="Sultan KernelSU SUSFS">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=OnePlus_KernelSU_SUSFS&theme=tokyonight&hide_border=true" alt="OnePlus KernelSU SUSFS">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🌟 **Featured Project: Wild KSU**
 
 <div align="center">
   <a href="https://github.com/WildKernels/Wild_KSU">
     <img src="https://img.shields.io/badge/🔥_Wild_KSU-Advanced_KernelSU_Fork-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Wild KSU">
   </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=tokyonight&hide_border=true" alt="Wild KSU Repo">
 </div>
 
 > 🚀 **Wild KSU** - A customization and root hiding focused fork of KernelSU Next with advanced features!
