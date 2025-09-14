@@ -14,13 +14,13 @@
   <img src="coding-animation.gif" width="400" alt="Coding GIF" />
 </div>
 
-
+<div align="center">
+  <img src="cat_on_line.svg" alt="Cat on Line" />
+</div>
 
 <div align="center">
   <img src="split.gif" alt="Custom Divider" />
 </div>
-
----
 
 ## ⚠️ **DISCLAIMER - READ CAREFULLY!**
 
@@ -37,7 +37,9 @@
 > 
 > By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 📊 **Repository Statistics**
 
@@ -49,7 +51,9 @@
      <a href="https://github.com/WildKernels/Wild_KSU"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Wild_KSU&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Wild_KSU"></a>
  </p>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🌟 **Featured Project: Wild KSU**
 
@@ -67,7 +71,9 @@
 > 
 > ⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🔥 **Wild Kernels Collection**
 
@@ -81,7 +87,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🛠️ **Development Tools & Resources**
 
@@ -93,7 +101,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 📋 **Installation Guide**
 
@@ -111,7 +121,9 @@
 
 > 💡 **Pro Tip**: Always backup your current boot.img before flashing any custom kernel!
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## ✨ **Key Features**
 
@@ -132,7 +144,9 @@
   <img src="https://img.shields.io/badge/Root_Hiding-Advanced-purple?style=for-the-badge&logo=incognito" alt="Root Hiding">
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🛠️ **Technologies & Skills**
 
@@ -157,7 +171,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🏆 **Credits & Acknowledgments**
 
@@ -178,7 +194,9 @@
   <img src="https://img.shields.io/badge/💖-Special_Thanks_to_Open_Source_Community-red?style=for-the-badge" alt="Open Source Love">
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🆘 **Support & Community**
 
@@ -194,7 +212,9 @@
 
 > 💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## ⚠️ **Final Disclaimer**
 
@@ -210,7 +230,9 @@
 > 
 > 🎯 **YOU are responsible for any consequences - proceed at your own risk!**
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 📱 **Connect With Me**
 
@@ -222,7 +244,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 ## 🌟 **Special Contributors**
 
@@ -246,7 +270,9 @@
   <img src="https://img.shields.io/badge/🤝-Missing_From_List?_Remind_Me!-yellow?style=for-the-badge" alt="Missing Contributors">
 </div>
 
----
+<div align="center">
+  <img src="split.gif" alt="Divider" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Happy+flashing!+%F0%9F%9A%80;Stay+wild%2C+stay+rooted!+%F0%9F%94%A5" alt="Closing Message" />
