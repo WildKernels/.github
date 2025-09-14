@@ -279,5 +279,5 @@
 </div>
 
 <div align="center">
-  <img src="color_wave.svg" alt="Color Wave" width="100%" height="4px" />
+  <img src="color_wave.svg" width="100%" alt="Color Wave" />
 </div>
