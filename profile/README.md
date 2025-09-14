@@ -1,14 +1,45 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+TheWildJames+%F0%9F%91%8B;Android+Kernel+Developer+%F0%9F%94%A7;Building+Wild+Kernels+for+Android+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="shark-header.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheWildJames&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=32CD32&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌿+WILD+KERNEL+CREWMATE+🌿;SUS+ANDROID+DEVELOPER+📱;IMPOSTOR+AMONG+KERNELS+🔧;EMERGENCY+MEETING%3A+ROOT+ACCESS!+🚨" alt="Sus Typing" />
+</div>
+
+<div align="center">
+  <img src="shark-footer.svg" />
+</div>
+
+<div align="center">
+  <img src="footer.svg" alt="Footer" />
+</div>
+
+<div align="center">
+  <img src="coding-animation.gif" width="400" alt="Coding GIF" />
+</div>
+
+<div align="center">
+  <h2>📊 TheWildJames Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheWildJames&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TheWildJames Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWildJames&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWildJames&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWildJames&theme=tokyonight&hide_border=true" alt="TheWildJames Streak" />
+</div>
+
+<div align="center">
+  <h2>🔥 WildKernels Organization Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=WildKernels&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WildKernels Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildKernels&layout=compact&theme=tokyonight&hide_border=true" alt="WildKernels Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WildKernels&theme=tokyonight&hide_border=true" alt="WildKernels Streak" />
+</div>
+
+<div align="center">
+  <img src="gray0_ctp_on_line.svg" alt="Custom Divider" />
 </div>
 
 ---
@@ -231,4 +262,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Happy+flashing!+%F0%9F%9A%80;Stay+wild%2C+stay+rooted!+%F0%9F%94%A5" alt="Closing Message" />
+</div>
+
+<div align="center">
+  <img src="shark-footer.svg" />
+</div>
+
+<div align="center">
+  <img src="footer.svg" alt="Footer" />
 </div>
