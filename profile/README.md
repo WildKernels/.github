@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there%21+Welcome+to+Wild+Kernels%21+%F0%9F%91%8B;Building+kernels+and+more+for+Android%21+%F0%9F%94%A7;TheWildJames+was+not+The+Impostor%21+%E0%B6%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21+Welcome+To+Wild+Kernels%21+%F0%9F%91%8B;Building+Kernels+And+More+For+Android%21+%F0%9F%94%A7;TheWildJames+Was+Not+The+Impostor%21+%E0%B6%9E" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -105,26 +105,6 @@
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 📋 **Installation Guide**
-
-<div align="center">
-
-### 🚀 **Quick Start**
-
-[![KernelSU Installation](https://img.shields.io/badge/📖_KernelSU_Installation-Guide-blue?style=for-the-badge&logo=android)](https://kernelsu.org/guide/installation.html)
-
-### 🔧 **Boot Image Tools**
-
-[![Get Kernel Format](https://img.shields.io/badge/🛠️_Get_My_Kernel_Format-Tool-red?style=for-the-badge&logo=github)](https://github.com/TheWildJames/Get_My_Kernel_Format)
-
-</div>
-
-> 💡 **Pro Tip**: Always backup your current boot.img before flashing any custom kernel!
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
 ## ✨ **Key Features**
 
 <div align="center">
@@ -133,8 +113,7 @@
 |:---------------:|:------------------:|:---------------:|
 | **🔐 KernelSU** | Root solution for Android GKI devices | Grants root permission directly in kernel space |
 | **🛡️ SUSFS** | Root hiding kernel patches & userspace module | Advanced stealth capabilities for KernelSU |
-| **⚡ Performance** | Optimized kernel configurations | Enhanced device performance & battery life |
-| **🔧 Customization** | Flexible kernel parameters | Tailored experience for power users |
+
 
 </div>
 
@@ -148,23 +127,9 @@
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 🛠️ **Technologies & Skills**
+## 🎯 **Specializations**
 
 <div align="center">
-
-### 💻 **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🔧 **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🎯 **Specializations**
 ![Kernel Development](https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
 ![Android Modding](https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Root Solutions](https://img.shields.io/badge/Root_Solutions-FF9500?style=for-the-badge&logo=unlock&logoColor=white)
@@ -291,5 +256,17 @@
 </div>
 
 <div align="center">
-  <img src="color_wave.svg" width="100%" alt="Color Wave" />
+  <img src="color_wave.svg" width="1000%" alt="Color Wave" />
 </div>
+
+<!--
+➖➖🟥🟥🟥
+➖🟥🟥🟥🟥🟥
+🟥🟥🟥🟦🟦🟦
+🟥🟥🟥🟦🟦🟦
+🟥🟥🟥🟥🟥🟥
+🟥🟥🟥🟥🟥🟥
+➖🟥🟥🟥🟥🟥
+➖🟥🟥➖🟥🟥
+➖🟥🟥➖🟥🟥
+-->
