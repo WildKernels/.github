@@ -193,18 +193,13 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 ## 🌟 **Special Contributors**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💝-This_Helps_Me_A_Lot-ff69b4?style=for-the-badge" alt="Appreciation">
-</div>
-
-<div align="center">
 
 | 👤 **Contributor** | 🎯 **Contribution** | 🔗 **Profile** |
 |:------------------:|:-------------------:|:---------------:|
 | **simonpunk** | Created SUSFS! | [![GitLab](https://img.shields.io/badge/GitLab-simonpunk-orange?style=flat-square&logo=gitlab)](https://gitlab.com/simonpunk/susfs4ksu.git) |
 | **sidex15** | Created module! | [![GitHub](https://img.shields.io/badge/GitHub-sidex15-blue?style=flat-square&logo=github)](https://github.com/sidex15) |
-| **backslashxx** | Helped with patches! | [![GitHub](https://img.shields.io/badge/GitHub-backslashxx-blue?style=flat-square&logo=github)](https://github.com/backslashxx) |
-| **Teemo** | Helped with patches! | [![GitHub](https://img.shields.io/badge/GitHub-liqideqq-blue?style=flat-square&logo=github)](https://github.com/liqideqq) |
-| **幕落** | Donation! | [![GitHub](https://img.shields.io/badge/GitHub-MuLuo688-blue?style=flat-square&logo=github)](https://github.com/MuLuo688) |
+| **Any Contributor** | Code contributions! | 🙏 Thank you for your help! |
+| **Any Donator** | Financial support! | 💝 Your donations are appreciated! |
 
 </div>
 
