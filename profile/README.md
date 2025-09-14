@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there%21+Welcome+to+Wild+Kernels%21+%F0%9F%91%8B;Building+kernels+and+more+for+Android%21+%F0%9F%94%A7;TheWildJames+was+not+The+Impostor%21+%E0%B6%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there%21+Welcome+to+Wild+Kernels%21+%F0%9F%91%8B;Building+kernels+and+more+for+Android%21+%F0%9F%94%A7;TheWildJames+was+not+The+Impostor%21+%E0%B6%9E" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -81,9 +81,9 @@
   
 | 🚀 **Kernel** | 📱 **Device Support** | 🔗 **Repository** | ⭐ **Status** |
 |:-------------:|:---------------------:|:-----------------:|:-------------:|
-| **GKI** | Generic Kernel Image | [![Repo](https://img.shields.io/badge/GitHub-GKI_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/GKI_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| **Sultan** | OnePlus Devices | [![Repo](https://img.shields.io/badge/GitHub-Sultan_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| **OnePlus** | OnePlus Specific | [![Repo](https://img.shields.io/badge/GitHub-OnePlus_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| **GKI** | GKI Devices | [![Repo](https://img.shields.io/badge/GitHub-GKI_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/GKI_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| **Sultan** | Pixel Devices | [![Repo](https://img.shields.io/badge/GitHub-Sultan_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| **OnePlus** | OnePlus Devices | [![Repo](https://img.shields.io/badge/GitHub-OnePlus_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
 
 </div>
 
@@ -234,13 +234,25 @@
   <img src="split.gif" alt="Divider" />
 </div>
 
-## 📱 **Connect With Me**
+## 📱 **Connect With Us**
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/💬_Personal-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheWildJames)
-[![Telegram Group](https://img.shields.io/badge/👥_Community-Telegram_Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wild_Kernels)
-[![GitHub](https://img.shields.io/badge/💻_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
+[![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?logo=telegram)](https://t.me/TheWildJames)
+[![Telegram](https://img.shields.io/badge/Telegram-Wild__Kernels-blue?logo=telegram)](https://t.me/Wild_Kernels)
+
+</div>
+
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+</div>
+
+## 👨‍💻 **Developers**
+
+<div align="center">
+
+[![TheWildJames](https://img.shields.io/badge/💻_Lead_Developer-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
+[![fatalcoder524](https://img.shields.io/badge/💻_Developer-fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)
 
 </div>
 
@@ -275,7 +287,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Happy+flashing!+%F0%9F%9A%80;Stay+wild%2C+stay+rooted!+%F0%9F%94%A5" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+Wild+Kernels!+%F0%9F%91%8B;Happy+Flashing!+%F0%9F%9A%80;Stay+Rooted!+Stay+Hidden!+Stay+Wild!+%F0%9F%94%A5" alt="Closing Message" />
 </div>
 
 <div align="center">
