@@ -166,40 +166,12 @@
 
 ### **Get Help**
 
+[![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?style=for-the-badge&logo=telegram)](https://t.me/TheWildJames)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/Wild_Kernels)
+
 </div>
 
 > 💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## ⚠️ **Final Disclaimer**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⚠️-IMPORTANT_REMINDER-red?style=for-the-badge&labelColor=darkred" alt="Important">
-</div>
-
-> 🚨 **Flashing these kernels will void your warranty and carries risk of bricking your device.**
-> 
-> 💾 **Always backup your data and current boot.img before proceeding.**
-> 
-> 🧠 **Make sure you understand the risks and have recovery knowledge.**
-> 
-> 🎯 **YOU are responsible for any consequences - proceed at your own risk!**
-
-<div align="center">
-  <img src="split.gif" alt="Divider" />
-</div>
-
-## 📱 **Connect With Us**
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?logo=telegram)](https://t.me/TheWildJames)
-[![Telegram](https://img.shields.io/badge/Telegram-Wild__Kernels-blue?logo=telegram)](https://t.me/Wild_Kernels)
-
-</div>
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
@@ -209,8 +181,8 @@
 
 <div align="center">
 
-[![TheWildJames](https://img.shields.io/badge/💻_Lead_Developer-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
-[![fatalcoder524](https://img.shields.io/badge/💻_Developer-fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)
+[![TheWildJames](https://img.shields.io/badge/👑_Owner-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
+[![fatalcoder524](https://img.shields.io/badge/💻_Co--Owner-fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)
 
 </div>
 
