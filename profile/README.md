@@ -11,12 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="coding-animation.gif" width="400" alt="Coding GIF" />
-  <img src="WK.png" width="100" alt="WK Logo" style="margin-left: 20px;" />
-</div>
-
-<div align="center">
-  <img src="cat_on_line.svg" alt="Cat on Line" width="100%" />
+  <img src="WK.png" width="100%" alt="WK Logo" />
 </div>
 
 <div align="center">
