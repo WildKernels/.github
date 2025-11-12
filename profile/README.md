@@ -207,6 +207,25 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
+## 💝 **Donations**
+
+<div align="center">
+
+- PayPal: bauhd@outlook.com
+- Card: `https://buy.stripe.com/5kQ28sdi08Nr0Xc2fU5os00`
+- LTC: MVaN1ToSuks2cdK9mB3M8EHCfzQSyEMf6h
+- BTC: 3BBXAMS4ZuCZwfbTXxWGczxHF4isymeyxG
+- ETH: 0x2b9C846c84d58717e784458406235C09a834274e
+- Patreon: `https://patreon.com/WildKernels`
+
+</div>
+
+<p align="center"><i>Any and all is appreciated!</i></p>
+
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+Wild+Kernels!+%F0%9F%91%8B;Happy+Flashing!+%F0%9F%9A%80;Stay+Rooted!+Stay+Hidden!+Stay+Wild!+%F0%9F%94%A5" alt="Closing Message" />
 </div>
