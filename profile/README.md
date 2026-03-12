@@ -71,11 +71,10 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development">  
-<img src="https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">  
 <img src="https://img.shields.io/badge/Root_Hidings-FF9500?style=for-the-badge&logo=incognito&logoColor=white" alt="Root Hidings">
 
 <div align="center">
-  <img src="c12.gif" width="20%" alt="Animation" />
+  <img src="c12.gif" width="5%" alt="Animation" />
 </div>
 
 </div>
