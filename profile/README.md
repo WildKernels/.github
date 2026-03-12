@@ -27,11 +27,11 @@
 
 **Your warranty is no longer valid!**
 
-I am **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
+We **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
 
 **Please** do thorough research and fully understand the features included before flashing!
 
-By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
+By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame us**!
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
@@ -57,7 +57,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 <div align="center">
 
 [![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)  
-[![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)
+[![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)  
 [![](https://img.shields.io/badge/ඞ_SUSFS4KSU-Module-red?style=for-the-badge&logo=github)](https://github.com/sidex15/susfs4ksu-module)
 
 </div>
@@ -70,8 +70,8 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development">
-<img src="https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">
+<img src="https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development">  
+<img src="https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">  
 <img src="https://img.shields.io/badge/Root_Hidings-FF9500?style=for-the-badge&logo=incognito&logoColor=white" alt="Root Hidings">
 
 <div align="center">
@@ -84,22 +84,17 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/💖-Special_Thanks_to_Open_Source_Community-red?style=for-the-badge" alt="Open Source Love">
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
 ## **Support & Community**
 
 <div align="center">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/💖-Special_Thanks_to_Open_Source_Community-red?style=for-the-badge" alt="Open Source Love">
+</div>
+
 ### **Get Help**
 
-[![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?style=for-the-badge&logo=telegram)](https://t.me/TheWildJames)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/WildKernels)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernels)
 
 </div>
 
@@ -113,8 +108,8 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 <div align="center">
 
-[![TheWildJames](https://img.shields.io/badge/TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
-[![fatalcoder524](https://img.shields.io/badge/fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)
+[![TheWildJames](https://img.shields.io/badge/TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)  
+[![fatalcoder524](https://img.shields.io/badge/fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)  
 [![fatalcoder524](https://img.shields.io/badge/jimsterino98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimsterino98)
 
 </div>
