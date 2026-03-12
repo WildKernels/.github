@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="WK.png" width="100%" alt="WK Logo" />
+  <img src="WK.png" width="50%" alt="WK Logo" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 📊 **Repository Statistics**
+## 📊 **Repositorys**
 
 <p align="center">
      <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
@@ -58,6 +58,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 [![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)  
 [![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)
+[![](https://img.shields.io/badge/ඞ_SUSFS4KSU-Module-red?style=for-the-badge&logo=github)](https://github.com/sidex15/susfs4ksu-module)
 
 </div>
 
