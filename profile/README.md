@@ -58,7 +58,8 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 [![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)  
 [![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)  
-[![](https://img.shields.io/badge/ඞ_SUSFS4KSU-Module-red?style=for-the-badge&logo=github)](https://github.com/sidex15/susfs4ksu-module)
+[![SUSFS Repo](https://img.shields.io/badge/ඞ_SUSFS4KSU-blue?style=for-the-badge&logo=github)](https://gitlab.com/simonpunk/susfs4ksu)  
+[![SUSFS Module](https://img.shields.io/badge/ඞ_SUSFS4KSU-Module-red?style=for-the-badge&logo=github)](https://github.com/sidex15/susfs4ksu-module)
 
 </div>
 
