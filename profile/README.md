@@ -52,33 +52,11 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 🌟 **Featured Project: Wild KSU**
-
-<div align="center">
-  <a href="https://github.com/WildKernels/Wild_KSU">
-    <img src="https://img.shields.io/badge/🔥_Wild_KSU-Advanced_KernelSU_Fork-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Wild KSU">
-  </a>
-</div>
-
-🚀 **Wild KSU** - A customization and root hiding focused fork of KernelSU Next with advanced features!
-
-✨ **Key Features**: Advanced root management, powerful module system, app profile system, and enhanced security
-
-🔧 **Easy Integration**: Automated kernel setup script available
-
-⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
-
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
 ## 🛠️ **Development Tools & Resources**
 
 <div align="center">
 
-[![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)
+[![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)  
 [![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)
 
 </div>
@@ -120,7 +98,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 ### **Get Help**
 
 [![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?style=for-the-badge&logo=telegram)](https://t.me/TheWildJames)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/Wild_Kernels)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/WildKernels)
 
 </div>
 
