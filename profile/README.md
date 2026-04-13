@@ -92,7 +92,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="https://img.shields.io/badge/💖-Special_Thanks_to_Open_Source_Community-red?style=for-the-badge" alt="Open Source Love">
 </div>
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernels)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernelsTG)
 
 </div>
 
