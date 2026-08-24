@@ -37,7 +37,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 📊 **Repositorys**
+## 📊 **Repositories**
 
 <p align="center">
      <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
