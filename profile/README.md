@@ -90,6 +90,8 @@ Need help? Open an issue in any repository or reach out on Telegram.
 
 ## Donations
 
+> **Kind note:** A donation is truly just a gift — not a payment for support, features, or priority. It doesn't unlock anything extra on our side and doesn't change how we help you; everyone gets the same community support whether you donate or not. Think of it as a kind “thank you” to help keep development going — not a transaction. If you do choose to give, we're genuinely grateful, but please never feel obligated.
+
 - PayPal: [bauhd@outlook.com](mailto:bauhd@outlook.com)
 - Card: https://buy.stripe.com/5kQ28sdi08Nr0Xc2fU5os00
 - LTC: MVaN1ToSuks2cdK9mB3M8EHCfzQSyEMf6h
