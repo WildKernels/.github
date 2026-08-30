@@ -160,11 +160,11 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 <!-- CONTRIBUTORS_START -->
 <div align="center">
 <p>
-  <a href="https://github.com/TheWildJames" title="TheWildJames (3675 contributions)"><img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="TheWildJames" style="border-radius:50%;" /></a>
+  <a href="https://github.com/TheWildJames" title="TheWildJames (3719 contributions)"><img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="TheWildJames" style="border-radius:50%;" /></a>
   <a href="https://github.com/jimsterino98" title="jimsterino98 (1001 contributions)"><img src="https://github.com/jimsterino98.png?size=80" width="50" height="50" alt="jimsterino98" style="border-radius:50%;" /></a>
   <a href="https://github.com/fatalcoder524" title="fatalcoder524 (436 contributions)"><img src="https://github.com/fatalcoder524.png?size=80" width="50" height="50" alt="fatalcoder524" style="border-radius:50%;" /></a>
   <a href="https://github.com/luigimak" title="luigimak (58 contributions)"><img src="https://github.com/luigimak.png?size=80" width="50" height="50" alt="luigimak" style="border-radius:50%;" /></a>
-  <a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (22 contributions)"><img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="ahmed-alnassif" style="border-radius:50%;" /></a>
+  <a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (23 contributions)"><img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="ahmed-alnassif" style="border-radius:50%;" /></a>
   <a href="https://github.com/MiRinChan" title="MiRinChan (13 contributions)"><img src="https://github.com/MiRinChan.png?size=80" width="50" height="50" alt="MiRinChan" style="border-radius:50%;" /></a>
   <a href="https://github.com/dathtd119" title="dathtd119 (11 contributions)"><img src="https://github.com/dathtd119.png?size=80" width="50" height="50" alt="dathtd119" style="border-radius:50%;" /></a>
   <a href="https://github.com/Bouteillepleine" title="Bouteillepleine (7 contributions)"><img src="https://github.com/Bouteillepleine.png?size=80" width="50" height="50" alt="Bouteillepleine" style="border-radius:50%;" /></a>
