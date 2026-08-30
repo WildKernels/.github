@@ -4,13 +4,14 @@ Welcome to WildKernels — Building kernels and more for Android.
 
 ## Disclaimer
 
-**Your warranty is no longer valid!**
-
-We are not responsible for bricked devices, damaged hardware, or any issues that arise from using these kernels.
-
-Please do thorough research and fully understand the features included before flashing.
-
-By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, do not blame us.
+> [!CAUTION]
+> **Your warranty is no longer valid!**
+>
+> We are not responsible for bricked devices, damaged hardware, or any issues that arise from using these kernels.
+>
+> Please do thorough research and fully understand the features included before flashing.
+>
+> By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, do not blame us.
 
 ## Our Projects
 
