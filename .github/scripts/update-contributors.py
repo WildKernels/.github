@@ -86,19 +86,22 @@ def list_contributors(org, repo):
 def build_grid(contributors):
     contributors.sort(key=lambda x: (-x["total"], x["login"].lower()))
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    cols = 7
     lines = []
-    lines.append('<div align="center">')
-    lines.append('<p>')
-    for c in contributors:
-        login = c["login"]
-        img = f"https://github.com/{login}.png?size=80"
-        lines.append(f'  <a href="https://github.com/{login}" title="{login} ({c["total"]} contributions)" style="display:inline-block; text-align:center; margin:4px; vertical-align:top; text-decoration:none;">')
-        lines.append(f'    <img src="{img}" width="50" height="50" alt="{login}" style="border-radius:50%;" /><br />')
-        lines.append(f'    <sub><b>{login}</b></sub>')
-        lines.append(f'  </a>')
-    lines.append('</p>')
-    lines.append(f'<p><sub><b>{len(contributors)}</b> contributors &middot; updated {now}</sub></p>')
-    lines.append('</div>')
+    lines.append('<table>')
+    for i in range(0, len(contributors), cols):
+        chunk = contributors[i:i+cols]
+        lines.append('  <tr>')
+        for c in chunk:
+            login = c["login"]
+            img = f"https://github.com/{login}.png?size=80"
+            lines.append(f'    <td align="center"><a href="https://github.com/{login}" title="{login} ({c["total"]} contributions)"><img src="{img}" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>{login}</b></sub></a></td>')
+        if len(chunk) < cols:
+            for _ in range(cols - len(chunk)):
+                lines.append('    <td></td>')
+        lines.append('  </tr>')
+    lines.append('</table>')
+    lines.append(f'<p align="center"><sub><b>{len(contributors)}</b> contributors &middot; updated {now}</sub></p>')
     return "\n".join(lines)
 
 def main():
