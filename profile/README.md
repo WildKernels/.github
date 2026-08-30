@@ -153,3 +153,44 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 ➖🟥🟥➖🟥🟥
 ➖🟥🟥➖🟥🟥
 -->
+
+
+## 👥 **Contributors**
+
+<!-- CONTRIBUTORS_START -->
+<div align="center">
+<p>
+  <a href="https://github.com/TheWildJames" title="TheWildJames (3675 contributions)"><img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="TheWildJames" style="border-radius:50%;" /></a>
+  <a href="https://github.com/jimsterino98" title="jimsterino98 (1001 contributions)"><img src="https://github.com/jimsterino98.png?size=80" width="50" height="50" alt="jimsterino98" style="border-radius:50%;" /></a>
+  <a href="https://github.com/fatalcoder524" title="fatalcoder524 (436 contributions)"><img src="https://github.com/fatalcoder524.png?size=80" width="50" height="50" alt="fatalcoder524" style="border-radius:50%;" /></a>
+  <a href="https://github.com/luigimak" title="luigimak (58 contributions)"><img src="https://github.com/luigimak.png?size=80" width="50" height="50" alt="luigimak" style="border-radius:50%;" /></a>
+  <a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (22 contributions)"><img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="ahmed-alnassif" style="border-radius:50%;" /></a>
+  <a href="https://github.com/MiRinChan" title="MiRinChan (13 contributions)"><img src="https://github.com/MiRinChan.png?size=80" width="50" height="50" alt="MiRinChan" style="border-radius:50%;" /></a>
+  <a href="https://github.com/dathtd119" title="dathtd119 (11 contributions)"><img src="https://github.com/dathtd119.png?size=80" width="50" height="50" alt="dathtd119" style="border-radius:50%;" /></a>
+  <a href="https://github.com/Bouteillepleine" title="Bouteillepleine (7 contributions)"><img src="https://github.com/Bouteillepleine.png?size=80" width="50" height="50" alt="Bouteillepleine" style="border-radius:50%;" /></a>
+  <a href="https://github.com/poqdavid" title="poqdavid (5 contributions)"><img src="https://github.com/poqdavid.png?size=80" width="50" height="50" alt="poqdavid" style="border-radius:50%;" /></a>
+  <a href="https://github.com/liqideqq" title="liqideqq (4 contributions)"><img src="https://github.com/liqideqq.png?size=80" width="50" height="50" alt="liqideqq" style="border-radius:50%;" /></a>
+  <a href="https://github.com/ukriu" title="ukriu (3 contributions)"><img src="https://github.com/ukriu.png?size=80" width="50" height="50" alt="ukriu" style="border-radius:50%;" /></a>
+  <a href="https://github.com/Fede2782" title="Fede2782 (2 contributions)"><img src="https://github.com/Fede2782.png?size=80" width="50" height="50" alt="Fede2782" style="border-radius:50%;" /></a>
+  <a href="https://github.com/nullptr-t-oss" title="nullptr-t-oss (2 contributions)"><img src="https://github.com/nullptr-t-oss.png?size=80" width="50" height="50" alt="nullptr-t-oss" style="border-radius:50%;" /></a>
+  <a href="https://github.com/ReeViiS69" title="ReeViiS69 (2 contributions)"><img src="https://github.com/ReeViiS69.png?size=80" width="50" height="50" alt="ReeViiS69" style="border-radius:50%;" /></a>
+  <a href="https://github.com/sakfi" title="sakfi (2 contributions)"><img src="https://github.com/sakfi.png?size=80" width="50" height="50" alt="sakfi" style="border-radius:50%;" /></a>
+  <a href="https://github.com/soranerai" title="soranerai (2 contributions)"><img src="https://github.com/soranerai.png?size=80" width="50" height="50" alt="soranerai" style="border-radius:50%;" /></a>
+  <a href="https://github.com/TheSillyOk" title="TheSillyOk (2 contributions)"><img src="https://github.com/TheSillyOk.png?size=80" width="50" height="50" alt="TheSillyOk" style="border-radius:50%;" /></a>
+  <a href="https://github.com/Avocadosheep" title="Avocadosheep (1 contributions)"><img src="https://github.com/Avocadosheep.png?size=80" width="50" height="50" alt="Avocadosheep" style="border-radius:50%;" /></a>
+  <a href="https://github.com/backslashxx" title="backslashxx (1 contributions)"><img src="https://github.com/backslashxx.png?size=80" width="50" height="50" alt="backslashxx" style="border-radius:50%;" /></a>
+  <a href="https://github.com/brunoanc" title="brunoanc (1 contributions)"><img src="https://github.com/brunoanc.png?size=80" width="50" height="50" alt="brunoanc" style="border-radius:50%;" /></a>
+  <a href="https://github.com/Dawid2849" title="Dawid2849 (1 contributions)"><img src="https://github.com/Dawid2849.png?size=80" width="50" height="50" alt="Dawid2849" style="border-radius:50%;" /></a>
+  <a href="https://github.com/djkcyl" title="djkcyl (1 contributions)"><img src="https://github.com/djkcyl.png?size=80" width="50" height="50" alt="djkcyl" style="border-radius:50%;" /></a>
+  <a href="https://github.com/FixeQD" title="FixeQD (1 contributions)"><img src="https://github.com/FixeQD.png?size=80" width="50" height="50" alt="FixeQD" style="border-radius:50%;" /></a>
+  <a href="https://github.com/hdigger" title="hdigger (1 contributions)"><img src="https://github.com/hdigger.png?size=80" width="50" height="50" alt="hdigger" style="border-radius:50%;" /></a>
+  <a href="https://github.com/huangdihd" title="huangdihd (1 contributions)"><img src="https://github.com/huangdihd.png?size=80" width="50" height="50" alt="huangdihd" style="border-radius:50%;" /></a>
+  <a href="https://github.com/notmarek" title="notmarek (1 contributions)"><img src="https://github.com/notmarek.png?size=80" width="50" height="50" alt="notmarek" style="border-radius:50%;" /></a>
+  <a href="https://github.com/pratikkabra143" title="pratikkabra143 (1 contributions)"><img src="https://github.com/pratikkabra143.png?size=80" width="50" height="50" alt="pratikkabra143" style="border-radius:50%;" /></a>
+  <a href="https://github.com/ShirkNeko" title="ShirkNeko (1 contributions)"><img src="https://github.com/ShirkNeko.png?size=80" width="50" height="50" alt="ShirkNeko" style="border-radius:50%;" /></a>
+  <a href="https://github.com/SSS1981-op" title="SSS1981-op (1 contributions)"><img src="https://github.com/SSS1981-op.png?size=80" width="50" height="50" alt="SSS1981-op" style="border-radius:50%;" /></a>
+</p>
+<p><sub>Contributors aggregated from <b>GKI_KernelSU_SUSFS, Sultan_KernelSU_SUSFS, Samsung_KernelSU_SUSFS, OnePlus_KernelSU_SUSFS, kernel_patches</b> &middot; <b>29</b> unique &middot; updated 2026-08-30</sub></p>
+</div>
+<!-- CONTRIBUTORS_END -->
+

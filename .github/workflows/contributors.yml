@@ -1,0 +1,40 @@
+name: Update Contributors
+permissions:
+  contents: write
+on:
+  schedule:
+    - cron: "0 3 * * *"  # nightly 03:00 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/contributors.yml"
+      - ".github/scripts/update-contributors.py"
+      - "profile/README.md"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - name: Update contributors grid
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORG: WildKernels
+          README_PATH: profile/README.md
+        run: |
+          set -euo pipefail
+          python3 .github/scripts/update-contributors.py
+          echo "--- diff ---"
+          git diff -- profile/README.md || true
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- profile/README.md; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git commit -m "docs: update contributors grid [skip ci]"
+          git push
