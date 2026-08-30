@@ -39,7 +39,7 @@ Welcome to WildKernels — Building kernels and more for Android.
 
 <div align="center">
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernelsTG)
+[![Telegram](https://img.shields.io/badge/Telegram-%40WildKernelsTG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WildKernelsTG)
 
 </div>
 
