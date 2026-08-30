@@ -160,7 +160,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 <!-- CONTRIBUTORS_START -->
 <div align="center">
 <p>
-  <a href="https://github.com/TheWildJames" title="TheWildJames (3675 contributions)" style="display:inline-block; text-align:center; margin:4px; vertical-align:top; text-decoration:none;">
+  <a href="https://github.com/TheWildJames" title="TheWildJames (3719 contributions)" style="display:inline-block; text-align:center; margin:4px; vertical-align:top; text-decoration:none;">
     <img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="TheWildJames" style="border-radius:50%;" /><br />
     <sub><b>TheWildJames</b></sub>
   </a>
@@ -176,7 +176,7 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
     <img src="https://github.com/luigimak.png?size=80" width="50" height="50" alt="luigimak" style="border-radius:50%;" /><br />
     <sub><b>luigimak</b></sub>
   </a>
-  <a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (22 contributions)" style="display:inline-block; text-align:center; margin:4px; vertical-align:top; text-decoration:none;">
+  <a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (23 contributions)" style="display:inline-block; text-align:center; margin:4px; vertical-align:top; text-decoration:none;">
     <img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="ahmed-alnassif" style="border-radius:50%;" /><br />
     <sub><b>ahmed-alnassif</b></sub>
   </a>
