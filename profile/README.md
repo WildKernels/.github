@@ -25,17 +25,7 @@ Welcome to WildKernels — Building kernels and more for Android.
      <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
  </p>
 
-## Support & Community
-
-<div align="center">
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernelsTG)
-
-</div>
-
-Need help? Open an issue in any repository or reach out on Telegram.
-
-## Developers
+## Our Developers
 
 <div align="center">
 
@@ -45,7 +35,17 @@ Need help? Open an issue in any repository or reach out on Telegram.
 
 </div>
 
-## Contributors
+## Our Community
+
+<div align="center">
+
+[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernelsTG)
+
+</div>
+
+Need help? Open an issue in any repository or reach out on Telegram.
+
+## Our Contributors
 
 <!-- CONTRIBUTORS_START -->
 <div align="center">
