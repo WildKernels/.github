@@ -12,7 +12,7 @@ Please do thorough research and fully understand the features included before fl
 
 By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, do not blame us.
 
-## Our Kernels
+## Our Projects
 
 <p align="center">
      <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
