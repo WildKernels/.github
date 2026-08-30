@@ -25,17 +25,6 @@ Welcome to WildKernels — Building kernels and more for Android.
      <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
  </p>
 
-## Development Tools & Resources
-
-<div align="center">
-
-[![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)  
-[![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)  
-[![SUSFS_Repo](https://img.shields.io/badge/ඞ_SUSFS4KSU-Repo-blue?style=for-the-badge&logo=github)](https://gitlab.com/simonpunk/susfs4ksu)  
-[![SUSFS Module](https://img.shields.io/badge/ඞ_SUSFS4KSU-Module-red?style=for-the-badge&logo=github)](https://github.com/sidex15/susfs4ksu-module)
-
-</div>
-
 ## Support & Community
 
 <div align="center">
