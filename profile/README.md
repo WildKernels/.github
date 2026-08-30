@@ -35,9 +35,13 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
 
 ## Support & Community
 
-Need help? Open an issue in any repository or reach out on Telegram:
+<div align="center">
 
-- Telegram: [WildKernelsTG](https://t.me/WildKernelsTG)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-green?style=for-the-badge&logo=telegram)](https://t.me/WildKernelsTG)
+
+</div>
+
+Need help? Open an issue in any repository or reach out on Telegram.
 
 ## Developers
 
