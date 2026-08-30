@@ -15,7 +15,7 @@ Welcome to WildKernels — Building kernels and more for Android.
 >
 > **Proceed at your own risk!**
 
-## Our Projects
+## Projects
 
 <p align="center">
      <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
@@ -25,7 +25,7 @@ Welcome to WildKernels — Building kernels and more for Android.
      <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
  </p>
 
-## Our Developers
+## Developers
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Welcome to WildKernels — Building kernels and more for Android.
 
 </div>
 
-## Our Community
+## Community
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Welcome to WildKernels — Building kernels and more for Android.
 
 Need help? Open an issue in any repository or reach out on Telegram.
 
-## Our Contributors
+## Contributors
 
 <!-- CONTRIBUTORS_START -->
 <div align="center">
