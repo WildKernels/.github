@@ -44,11 +44,11 @@ Need help? Open an issue in any repository or reach out on Telegram:
 <!-- CONTRIBUTORS_START -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/TheWildJames" title="TheWildJames (3675 contributions)"><img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>TheWildJames</b></sub></a></td>
+    <td align="center"><a href="https://github.com/TheWildJames" title="TheWildJames (3719 contributions)"><img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>TheWildJames</b></sub></a></td>
     <td align="center"><a href="https://github.com/jimsterino98" title="jimsterino98 (1001 contributions)"><img src="https://github.com/jimsterino98.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>jimsterino98</b></sub></a></td>
     <td align="center"><a href="https://github.com/fatalcoder524" title="fatalcoder524 (436 contributions)"><img src="https://github.com/fatalcoder524.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>fatalcoder524</b></sub></a></td>
     <td align="center"><a href="https://github.com/luigimak" title="luigimak (58 contributions)"><img src="https://github.com/luigimak.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>luigimak</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (22 contributions)"><img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>ahmed-alnassif</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (23 contributions)"><img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>ahmed-alnassif</b></sub></a></td>
     <td align="center"><a href="https://github.com/MiRinChan" title="MiRinChan (13 contributions)"><img src="https://github.com/MiRinChan.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>MiRinChan</b></sub></a></td>
     <td align="center"><a href="https://github.com/dathtd119" title="dathtd119 (11 contributions)"><img src="https://github.com/dathtd119.png?size=80" width="50" height="50" alt="" style="border-radius:50%;" /><br /><sub><b>dathtd119</b></sub></a></td>
   </tr>
