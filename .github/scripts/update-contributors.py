@@ -92,9 +92,12 @@ def build_grid(contributors):
     for c in contributors:
         login = c["login"]
         img = f"https://github.com/{login}.png?size=80"
-        lines.append(f'  <a href="https://github.com/{login}" title="{login} ({c["total"]} contributions)"><img src="{img}" width="50" height="50" alt="{login}" style="border-radius:50%;" /></a>')
+        lines.append(f'  <a href="https://github.com/{login}" title="{login} ({c["total"]} contributions)" style="display:inline-block; text-align:center; margin:4px; vertical-align:top; text-decoration:none;">')
+        lines.append(f'    <img src="{img}" width="50" height="50" alt="{login}" style="border-radius:50%;" /><br />')
+        lines.append(f'    <sub><b>{login}</b></sub>')
+        lines.append(f'  </a>')
     lines.append('</p>')
-    lines.append(f'<p><sub>Contributors aggregated from <b>{", ".join(REPOS)}</b> &middot; <b>{len(contributors)}</b> unique &middot; updated {now}</sub></p>')
+    lines.append(f'<p><sub><b>{len(contributors)}</b> contributors &middot; updated {now}</sub></p>')
     lines.append('</div>')
     return "\n".join(lines)
 
