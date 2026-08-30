@@ -12,6 +12,8 @@ Welcome to WildKernels — Building kernels and more for Android.
 > Please do thorough research and fully understand the features included before flashing.
 >
 > By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, do not blame the Wild Kernels Team.
+>
+> **Proceed at your own risk!**
 
 ## Our Projects
 
