@@ -29,9 +29,9 @@ Welcome to WildKernels — Building kernels and more for Android.
 
 <div align="center">
 
-[![TheWildJames](https://img.shields.io/badge/GKI_&_WKSU-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)  
-[![fatalcoder524](https://img.shields.io/badge/OnePlus_&_Kernel_Flasher-fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)  
-[![jimsterino98](https://img.shields.io/badge/Samsung-jimsterino98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimsterino98)
+[![TheWildJames](https://img.shields.io/badge/GKI_&_WKSU-TheWildJames-3DDC84?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)  
+[![fatalcoder524](https://img.shields.io/badge/OnePlus_&_Kernel_Flasher-fatalcoder524-EB0028?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)  
+[![jimsterino98](https://img.shields.io/badge/Samsung-jimsterino98-1428A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimsterino98)
 
 </div>
 
