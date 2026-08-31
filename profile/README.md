@@ -5,7 +5,7 @@ Welcome to WildKernels — Building kernels and more for Android.
 ## Disclaimer
 
 > [!CAUTION]
-> Wild Kernels are **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
+> Wild Kernels is **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
 >
 > Please do thorough research and fully understand the features included before flashing.
 >
