@@ -5,13 +5,17 @@ Welcome to WildKernels — Building kernels and more for Android.
 ## Disclaimer
 
 > [!CAUTION]
-> **Your warranty is no longer valid!**
+> **Your warranty is no longer valid!** Flashing these kernels will void your warranty, and there is always a risk of bricking your device.
 >
 > We are not responsible for bricked devices, damaged hardware, or any issues that arise from using these kernels.
 >
 > Please do thorough research and fully understand the features included before flashing.
 >
 > By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, do not blame the Wild Kernels Team.
+>
+> Please make sure to:
+> - Back up your data
+> - Understand the risks before proceeding
 >
 > **Proceed at your own risk!**
 
