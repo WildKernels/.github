@@ -65,6 +65,7 @@ Need help? Open an issue in any repository or reach out on Telegram.
   <a href="https://github.com/Bouteillepleine" title="Bouteillepleine (7 contributions)"><img src="https://github.com/Bouteillepleine.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/poqdavid" title="poqdavid (5 contributions)"><img src="https://github.com/poqdavid.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/liqideqq" title="liqideqq (4 contributions)"><img src="https://github.com/liqideqq.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
+  <a href="https://github.com/J-DTurner" title="J-DTurner (3 contributions)"><img src="https://github.com/J-DTurner.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/ukriu" title="ukriu (3 contributions)"><img src="https://github.com/ukriu.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/Fede2782" title="Fede2782 (2 contributions)"><img src="https://github.com/Fede2782.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/nullptr-t-oss" title="nullptr-t-oss (2 contributions)"><img src="https://github.com/nullptr-t-oss.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
@@ -86,8 +87,8 @@ Need help? Open an issue in any repository or reach out on Telegram.
   <a href="https://github.com/ShirkNeko" title="ShirkNeko (1 contributions)"><img src="https://github.com/ShirkNeko.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/SSS1981-op" title="SSS1981-op (1 contributions)"><img src="https://github.com/SSS1981-op.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
 </p>
-<p><sub><b>30</b> contributors &middot; updated 2026-09-08</sub></p>
-<p><sub>@TheWildJames, @jimsterino98, @fatalcoder524, @luigimak, @ahmed-alnassif, @MiRinChan, @dathtd119, @Bouteillepleine, @poqdavid, @liqideqq, @ukriu, @Fede2782, @nullptr-t-oss, @ReeViiS69, @sakfi, @soranerai, @TheSillyOk, @trinadhthatakula, @Avocadosheep, @backslashxx, @brunoanc, @Dawid2849, @djkcyl, @FixeQD, @hdigger, @huangdihd, @notmarek, @pratikkabra143, @ShirkNeko, @SSS1981-op</sub></p>
+<p><sub><b>31</b> contributors &middot; updated 2026-09-09</sub></p>
+<p><sub>@TheWildJames, @jimsterino98, @fatalcoder524, @luigimak, @ahmed-alnassif, @MiRinChan, @dathtd119, @Bouteillepleine, @poqdavid, @liqideqq, @J-DTurner, @ukriu, @Fede2782, @nullptr-t-oss, @ReeViiS69, @sakfi, @soranerai, @TheSillyOk, @trinadhthatakula, @Avocadosheep, @backslashxx, @brunoanc, @Dawid2849, @djkcyl, @FixeQD, @hdigger, @huangdihd, @notmarek, @pratikkabra143, @ShirkNeko, @SSS1981-op</sub></p>
 </div>
 <!-- CONTRIBUTORS_END -->
 
