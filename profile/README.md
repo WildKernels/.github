@@ -57,7 +57,7 @@ Need help? Open an issue in any repository or reach out on Telegram.
 <p>
   <a href="https://github.com/TheWildJames" title="TheWildJames (4044 contributions)"><img src="https://github.com/TheWildJames.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/jimsterino98" title="jimsterino98 (1062 contributions)"><img src="https://github.com/jimsterino98.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
-  <a href="https://github.com/fatalcoder524" title="fatalcoder524 (458 contributions)"><img src="https://github.com/fatalcoder524.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
+  <a href="https://github.com/fatalcoder524" title="fatalcoder524 (461 contributions)"><img src="https://github.com/fatalcoder524.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/luigimak" title="luigimak (70 contributions)"><img src="https://github.com/luigimak.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/ahmed-alnassif" title="ahmed-alnassif (23 contributions)"><img src="https://github.com/ahmed-alnassif.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/cawilliamson" title="cawilliamson (13 contributions)"><img src="https://github.com/cawilliamson.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
@@ -69,6 +69,7 @@ Need help? Open an issue in any repository or reach out on Telegram.
   <a href="https://github.com/liqideqq" title="liqideqq (4 contributions)"><img src="https://github.com/liqideqq.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/nullptr-t-oss" title="nullptr-t-oss (4 contributions)"><img src="https://github.com/nullptr-t-oss.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/GlitchedCode922" title="GlitchedCode922 (3 contributions)"><img src="https://github.com/GlitchedCode922.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
+  <a href="https://github.com/RamuSriram" title="RamuSriram (3 contributions)"><img src="https://github.com/RamuSriram.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/ukriu" title="ukriu (3 contributions)"><img src="https://github.com/ukriu.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/Fede2782" title="Fede2782 (2 contributions)"><img src="https://github.com/Fede2782.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/ReeViiS69" title="ReeViiS69 (2 contributions)"><img src="https://github.com/ReeViiS69.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
@@ -91,8 +92,8 @@ Need help? Open an issue in any repository or reach out on Telegram.
   <a href="https://github.com/ShirkNeko" title="ShirkNeko (1 contributions)"><img src="https://github.com/ShirkNeko.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
   <a href="https://github.com/SSS1981-op" title="SSS1981-op (1 contributions)"><img src="https://github.com/SSS1981-op.png?size=80" width="50" height="50" alt="" style="border-radius:50%; margin:2px;" /></a>
 </p>
-<p><sub><b>35</b> contributors &middot; updated 2026-11-11</sub></p>
-<p><sub>@TheWildJames, @jimsterino98, @fatalcoder524, @luigimak, @ahmed-alnassif, @cawilliamson, @MiRinChan, @dathtd119, @xmicro, @Bouteillepleine, @poqdavid, @liqideqq, @nullptr-t-oss, @GlitchedCode922, @ukriu, @Fede2782, @ReeViiS69, @sakfi, @soranerai, @TheSillyOk, @trinadhthatakula, @Avocadosheep, @backslashxx, @brunoanc, @Dawid2849, @djkcyl, @FixeQD, @hdigger, @huangdihd, @maicol07, @mgihriprayogi, @notmarek, @pratikkabra143, @ShirkNeko, @SSS1981-op</sub></p>
+<p><sub><b>36</b> contributors &middot; updated 2026-11-12</sub></p>
+<p><sub>@TheWildJames, @jimsterino98, @fatalcoder524, @luigimak, @ahmed-alnassif, @cawilliamson, @MiRinChan, @dathtd119, @xmicro, @Bouteillepleine, @poqdavid, @liqideqq, @nullptr-t-oss, @GlitchedCode922, @RamuSriram, @ukriu, @Fede2782, @ReeViiS69, @sakfi, @soranerai, @TheSillyOk, @trinadhthatakula, @Avocadosheep, @backslashxx, @brunoanc, @Dawid2849, @djkcyl, @FixeQD, @hdigger, @huangdihd, @maicol07, @mgihriprayogi, @notmarek, @pratikkabra143, @ShirkNeko, @SSS1981-op</sub></p>
 </div>
 <!-- CONTRIBUTORS_END -->
 
